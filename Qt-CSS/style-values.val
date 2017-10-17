@@ -10,6 +10,6 @@
 @border-size = 2px
 @edit-padding = 4px
 @button-padding = 6px
-@margin = 3px;
+@margin = 3px
 @bars-size = 15px
 @handle-size = 15px
