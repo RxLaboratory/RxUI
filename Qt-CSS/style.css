@@ -2,7 +2,6 @@
 
 *{
         outline: none;
-	border-radius: @border-radius;
 }
 
 MainWindow, QDialog {
@@ -51,6 +50,7 @@ QPlainTextEdit, QTextBrowser, QTextEdit, QLineEdit {
 	padding: @edit-padding;
 	padding-bottom: 5px;
 	border: @border-size solid @color-medium;
+	border-radius: @border-radius;
 }
 
 QPlainTextEdit:hover, QTextBrowser:hover, QTextEdit:hover  {
@@ -78,6 +78,7 @@ QPushButton {
 	color: @color-light;
 	background-color: @color-medium;
 	padding: @button-padding;
+	border-radius: @border-radius;
 }
 
 QPushButton:disabled {
@@ -100,9 +101,9 @@ QPushButton:pressed:hover {
 /* CHECKBOX AND RADIOBUTTON */
 
 QCheckBox, QRadioButton {
-        border:none;
 	color: @color-light;
 	padding: @button-padding;
+	border-radius: @border-radius;
 }
 
 QCheckBox:hover, QRadioButton:hover {
@@ -119,6 +120,7 @@ QCheckBox::indicator, QRadioButton::indicator {
 	width: @handle-size;
 	height: @handle-size;
 	border: @border-size solid @color-medium;
+	border-radius: @border-radius;
 }
 
 QCheckBox::indicator:disabled, QRadioButton::indicator:disabled {
@@ -155,6 +157,7 @@ QSpinBox, QDoubleSpinBox {
 	border: @border-size solid @color-medium;
 	color: @color-light;
 	padding: @edit-padding;
+	border-radius: @border-radius;
 }
 
 QSpinBox:hover, QDoubleSpinBox:hover {
@@ -168,6 +171,7 @@ QSpinBox::up-button, QDoubleSpinBox::up-button {
 	background-color:@color-medium;
 	border-left: @border-size solid @color-dark;
 	border-bottom: 1px solid @color-dark;
+	border-top-right-radius: @border-radius;
 }
 
 QSpinBox::down-button, QDoubleSpinBox::down-button {
@@ -175,6 +179,7 @@ QSpinBox::down-button, QDoubleSpinBox::down-button {
 	background-color:@color-medium;
 	border-top: 1px solid @color-dark;
 	border-left: @border-size solid @color-dark;
+	border-bottom-right-radius: @border-radius;
 }
 
 QSpinBox::up-button:hover,  QSpinBox::down-button:hover, QDoubleSpinBox::up-button:hover, QDoubleSpinBox::down-button:hover {
@@ -196,6 +201,8 @@ QSpinBox::up-button:disabled, QDoubleSpinBox::up-button:disabled, QSpinBox::down
 
 QSlider::sub-page:horizontal {
         background-color: @color-medium;
+	border-bottom-left-radius: @border-radius;
+	border-top-left-radius: @border-radius;
 }
 
 QSlider::sub-page:horizontal:disabled {
@@ -204,6 +211,8 @@ QSlider::sub-page:horizontal:disabled {
 
 QSlider::add-page:horizontal {
         background-color: @color-very-dark;
+	border-top-right-radius: @border-radius;
+	border-bottom-right-radius: @border-radius;
 }
 
 QSlider::handle {
@@ -229,6 +238,7 @@ QComboBox {
 	border-color:  @color-medium;
 	background-color:@color-medium;
 	padding: @edit-padding;
+	border-radius: @border-radius;
 }
 
 QComboBox:disabled {
@@ -276,6 +286,7 @@ QToolButton {
 	padding: @button-padding;
 	background-color: @color-medium;
 	margin:@margin;
+	border-radius: @border-radius;
 }
 
 QToolBar QPushButton {
@@ -356,6 +367,7 @@ QScrollBar {
 
 QScrollBar::add-page, QScrollBar::sub-page{
         background: @color-abyss;
+	border-radius: @border-radius;
 }
 
 QScrollBar::handle {
@@ -426,6 +438,7 @@ QListWidget {
 	color: @color-light;
 	padding: @edit-padding;
 	border: @border-size solid @color-medium;
+	border-radius: @border-radius;
 }
 
 QListWidget::item {
@@ -454,6 +467,7 @@ QListWidget:disabled {
 QTableWidget {
         background-color: @color-dark;
 	alternate-background-color: @color-dark-alternate;
+	border-radius: @border-radius;
 }
 
 QTableWidget QTableCornerButton::section {
@@ -520,6 +534,7 @@ QTreeWidget {
         background-color: @color-dark;
 	alternate-background-color: @color-dark-alternate;
 	color: @color-light;
+	border-radius: @border-radius;
 }
 
 /* TABS */
@@ -534,19 +549,19 @@ QTabWidget::pane { /* The tab widget frame */
 }
 
 QTabBar {
-        background-color: @color-dark;
+        background-color: @color-very-dark;
 }
+
 QTabBar::tab {
-        background-color: @color-dark;
+        background-color: @color-very-dark;
 	color: @color-light;
-	border: @border-size solid @color-dark;
+	border: @border-size solid @color-very-dark;
 	padding: @button-padding;
-	margin-bottom: @margin;
 }
 
 QTabBar::tab:selected {
-        background-color: @color-very-dark;
-	border-color: @color-very-dark;
+        background-color: @color-dark;
+	border-color: @color-dark;
 	color: @color-light;
 }
 
@@ -568,6 +583,7 @@ QToolBox::tab {
         background-color: @color-dark;
 	color: @color-light;
 	padding-left: @button-padding;
+	border-radius: @border-radius;
 }
 
 QToolBox::tab:selected {
@@ -606,6 +622,8 @@ QProgressBar {
         color: @color-medium;
 	border: none;
 	background-color: @color-very-dark;
+	border-radius: @border-radius;
+	text-align: center;
 }
 
 QProgressBar::chunk {
