@@ -274,9 +274,13 @@ QToolBar {
 }
 
 QToolBar::separator {
-        background: @color-dark;
+        background: @color-medium;
 	width:@border-size;
 	height:@border-size;
+}
+
+QToolBar QWidget {
+    background: @color-medium;
 }
 
 QToolButton {
@@ -320,7 +324,6 @@ QToolBar QCheckBox::indicator:checked:hover {
 
 QToolBar QComboBox {
         border: none;
-	/*padding: 1px 1px 1px @margin;*/
 	padding-left:40%;
 	color: @color-dark;
 	background-color: @color-light;
@@ -379,22 +382,6 @@ QScrollBar::handle:hover {
         background: @color-medium;
 }
 
-QListWidget QScrollBar {
-        background: @color-dark;
-}
-
-QListWidget QScrollBar::add-page,QListWidget QScrollBar::sub-page{
-        background: @color-dark;
-}
-
-QListWidget QScrollBar::handle {
-        background: @color-less-dark;
-}
-
-QListWidget QScrollBar::handle:hover {
-        background: @color-light;
-}
-
 QScrollBar::add-line, QScrollBar::sub-line {
         border: none;
 	width:0;
@@ -434,15 +421,23 @@ QSplitter::handle:pressed {
 /* LIST */
 
 QListWidget {
-        background-color: @color-medium;
-	color: @color-light;
-	padding: @edit-padding;
-	border: @border-size solid @color-medium;
-	border-radius: @border-radius;
+    background-color: @color-medium;
+    alternate-background-color: @color-less-dark;
+    color: @color-light;
+    padding: @edit-padding;
+    padding-bottom: 5px;
+    border: @border-size solid @color-medium;
+    border-radius: @border-radius;
+}
+
+QListWidget:hover  {
+        background-color: @color-dark;
+	color: @color-dark;
+	border-color:  @color-light;
 }
 
 QListWidget::item {
-        padding:@edit-padding;;
+        padding:@edit-padding;
 }
 
 QListWidget::item:hover {
@@ -453,7 +448,7 @@ QListWidget::item:hover {
 QListWidget::item:selected {
         background-color: @color-dark;
 	color: @color-light;
-	border = none;
+	border: none;
 }
 
 QListWidget:disabled {
