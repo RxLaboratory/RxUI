@@ -625,3 +625,34 @@ QProgressBar::chunk {
         background-color: @color-light;
 	width: 1px;
 }
+
+/* MENU */
+
+QMenu {
+    background-color: @color-dark;
+    border: none;
+    margin: @margin;
+}
+
+QMenu::icon {
+    right: 20px;
+    padding:@button-padding;
+    border-radius: @border-radius;
+}
+
+QMenu::item {
+    color: @color-light;
+    background-color: @color-dark;
+    border-radius: @border-radius;
+    padding:@button-padding;
+    margin-left:23px;
+}
+
+QMenu::item:selected {
+    color: @color-dark;
+    background-color: @color-light;
+}
+
+QMenu::icon:selected {
+    background-color: @color-light;
+}
