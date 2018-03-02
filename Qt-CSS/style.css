@@ -4,7 +4,7 @@
         outline: none;
 }
 
-MainWindow, QDialog {
+QMainWindow, QDialog {
         background-color: @color-dark;
 	/*border: 4px solid @color-medium;*/
 }
@@ -438,6 +438,7 @@ QListWidget:hover  {
 
 QListWidget::item {
         padding:@edit-padding;
+	border-radius: @border-radius;
 }
 
 QListWidget::item:hover {
@@ -446,8 +447,8 @@ QListWidget::item:hover {
 }
 
 QListWidget::item:selected {
-        background-color: @color-dark;
-	color: @color-light;
+        background-color: @color-light;
+	color: @color-dark;
 	border: none;
 }
 
