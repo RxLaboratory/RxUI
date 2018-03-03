@@ -277,7 +277,7 @@ QToolBar {
 }
 
 QToolBar::separator {
-        background: @color-medium;
+        background: @color-less-dark;
 	width:@border-size;
 	height:@border-size;
 }
