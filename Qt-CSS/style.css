@@ -51,18 +51,21 @@ QPlainTextEdit, QTextBrowser, QTextEdit, QLineEdit {
 	padding-bottom: 5px;
 	border: @border-size solid @color-medium;
 	border-radius: @border-radius;
+	selection-background-color: @color-dark;
 }
 
 QPlainTextEdit:hover, QTextBrowser:hover, QTextEdit:hover  {
         background-color: @color-dark;
 	color: @color-dark;
 	border-color:  @color-light;
+	selection-background-color: @color-medium;
 }
 
 QLineEdit:hover {
         background-color: @color-light;
 	color: @color-dark;
 	border-color:  @color-light;
+	selection-background-color: @color-medium;
 }
 
 QPlainTextEdit:disabled, QTextEdit:disabled,QTextBrowser:disabled, QLineEdit:disabled  {
@@ -293,6 +296,11 @@ QToolButton {
 	border-radius: @border-radius;
 }
 
+QToolButton#qt_toolbar_ext_button {
+    background-color: @color-dark;
+    right:20px;
+}
+
 QToolBar QPushButton {
         background-color: @color-dark;
 	color: @color-medium;
@@ -355,9 +363,19 @@ QToolButton:hover,  QToolBar QPushButton:hover {
 	color: @color-dark;
 }
 
+QToolButton#qt_toolbar_ext_button:hover {
+    background-color: @color-light;
+}
+
 QToolButton:checked:hover, QToolBar QPushButton:checked:hover {
         background-color: @color-dark;
 	color: @color-medium;
+}
+
+QToolBar::handle {
+    border: none;
+    background-color: @color-less-dark;
+    border-radius: @border-radius;
 }
 
 /* SCROLLBAR */
@@ -444,6 +462,11 @@ QListWidget::item {
 QListWidget::item:hover {
         background-color: @color-medium;
 	color: @color-dark;
+}
+
+QListWidget QLineEdit {
+    padding:0px;
+    border:none;
 }
 
 QListWidget::item:selected {
@@ -630,7 +653,7 @@ QProgressBar::chunk {
 /* MENU */
 
 QMenu {
-    background-color: @color-dark;
+    background-color: @color-medium;
     border: none;
     margin: @margin;
 }
@@ -643,7 +666,7 @@ QMenu::icon {
 
 QMenu::item {
     color: @color-light;
-    background-color: @color-dark;
+    background-color: @color-medium;
     border-radius: @border-radius;
     padding:@button-padding;
     margin-left:23px;
