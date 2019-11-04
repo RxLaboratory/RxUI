@@ -7,24 +7,25 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Calque_1"
-   data-name="Calque 1"
-   viewBox="0 0 32 32"
+   viewBox="0 0 48 48.000001"
    version="1.1"
+   id="svg24"
    sodipodi:docname="barrel_l.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="48"
+   height="48"
    inkscape:export-filename="F:\DEV_SRC\RainboxUI\Icons\25w\w25_barrel_l.png"
-   inkscape:export-xdpi="75.000008"
-   inkscape:export-ydpi="75.000008">
+   inkscape:export-xdpi="50"
+   inkscape:export-ydpi="50">
   <metadata
-     id="metadata826">
+     id="metadata28">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>beer_r</dc:title>
+        <dc:title>08Fichier 2</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,94 +40,93 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1858"
      inkscape:window-height="1057"
-     id="namedview824"
+     id="namedview26"
      showgrid="false"
-     inkscape:zoom="19.401242"
-     inkscape:cx="14.167677"
-     inkscape:cy="15.19743"
+     inkscape:zoom="4"
+     inkscape:cx="17.511578"
+     inkscape:cy="0.20526368"
      inkscape:window-x="54"
      inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g856" />
+     inkscape:current-layer="g930"
+     units="px"
+     showborder="true"
+     borderlayer="true"
+     inkscape:showpageshadow="false" />
   <defs
-     id="defs817">
+     id="defs4">
     <style
-       id="style815">.cls-1{fill:#ec1818;}</style>
+       id="style2">.cls-1,.cls-3{fill:#fff;}.cls-2{fill:none;}.cls-2,.cls-3{stroke:#222221;stroke-miterlimit:10;stroke-width:3px;}</style>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask955">
+       id="mask1003">
       <g
-         id="g967"
-         inkscape:label="masque">
+         inkscape:label="tracés"
+         transform="matrix(1.0021745,0,0,1.0021745,-0.23618906,-0.20727067)"
+         style="display:inline"
+         data-name="Calque 2"
+         id="g1019">
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.13543296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect957"
-           width="32.162888"
-           height="32.626778"
-           x="-0.15462928"
-           y="-0.62677664"
-           rx="1.68804"
-           ry="6.3913398" />
+           y="27.033291"
+           x="23.856768"
+           height="178.26611"
+           width="104.64259"
+           id="rect1005"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:12.76898193;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
         <ellipse
-           cx="27.936356"
-           cy="18.882284"
-           rx="0.8762325"
-           ry="1.7782366"
-           id="ellipse959"
-           style="opacity:1;fill:#111111;fill-opacity:1;stroke:none;stroke-width:2.13543296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           class="cls-3"
+           cx="67.099998"
+           cy="116.71"
+           rx="13.01"
+           ry="13.96"
+           id="ellipse1007"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3px;stroke-miterlimit:10" />
         <path
-           sodipodi:nodetypes="cc"
+           class="cls-2"
+           d="m 104.18,231.92 h 53.93 c 18.8,-74.08 18.8,-156.34 0,-230.42 h -53.93 z"
+           id="path1009"
            inkscape:connector-curvature="0"
-           id="path961"
-           d="M 28.297158,23.85552 C 22.158313,23.700891 22.157989,5.82079 28.203178,5.557723"
-           style="fill:none;stroke:#000000;stroke-width:2.13543296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#0c0c00;stroke-width:11.95915031;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           sodipodi:nodetypes="cc"
+           class="cls-2"
+           d="m 185.57,231.92 h -27.46 c 18.8,-74.08 18.8,-156.34 0,-230.42 h 27.46 a 322.44,322.44 0 0 1 0,230.42 z"
+           id="path1011"
            inkscape:connector-curvature="0"
-           id="path963"
-           d="M 17.16385,3.3935842 C 11.648739,4.1151875 11.634087,24.263185 17.266936,25.969459"
-           style="fill:none;stroke:#000000;stroke-width:2.89133859;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#080800;stroke-width:11.95915031;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           sodipodi:nodetypes="cc"
+           class="cls-2"
+           d="M 50.25,231.92 H 22.79 a 322.34,322.34 0 0 1 0,-230.42 h 27.46 c -18.81,74.08 -18.81,156.34 0,230.42 z"
+           id="path1013"
            inkscape:connector-curvature="0"
-           id="path965"
-           d="M 8.8654117,3.8059291 C 3.968818,4.5790755 4.0057092,25.036331 8.7623255,25.557114"
-           style="fill:none;stroke:#000000;stroke-width:2.89133859;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:11.95915031;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           class="cls-3"
+           d="M 185.57,231.92 H 22.79 Q 17.57,218.3 13.64,204.36 h 181.08 q -3.93,13.94 -9.15,27.56 z"
+           id="path1015"
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:11.95915031;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           class="cls-3"
+           d="M 194.72,29.06 H 13.64 Q 17.57,15.13 22.79,1.5 h 162.78 q 5.22,13.62 9.15,27.56 z"
+           id="path1017"
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:11.95915031;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </mask>
   </defs>
   <title
-     id="title819">beer_r</title>
+     id="title6">08Fichier 2</title>
   <g
-     id="g856"
-     inkscape:label="tonneau corps"
-     mask="url(#mask955)">
+     id="g930"
+     inkscape:label="fond"
+     transform="matrix(0.1668731,0,0,0.1668731,6.5497039,3.9511492)"
+     mask="url(#mask1003)">
     <rect
-       rx="12.731144"
-       ry="2.7833271"
-       y="5.9191961"
-       x="3.2987578"
-       height="17.627737"
-       width="25.462288"
-       id="rect832"
-       style="opacity:1;fill:#e3e3ef;fill-opacity:0.94117647;stroke:#e3e3ef;stroke-width:2.11275601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
-    <rect
-       ry="6.3913436"
-       rx="1.6880362"
-       y="8.0840054"
-       x="26.00349"
-       height="13.349662"
-       width="3.8657308"
-       id="rect836"
-       style="opacity:1;fill:#e3e3ef;fill-opacity:0.94117647;stroke:#e3e3ef;stroke-width:2.11275601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
-    <rect
-       ry="6.6748309"
-       rx="1.6880362"
-       y="8.0840054"
-       x="2.1848071"
-       height="13.349662"
-       width="3.8657308"
-       id="rect836-0"
-       style="opacity:1;fill:#e3e3ef;fill-opacity:0.94117647;stroke:#e3e3ef;stroke-width:2.11275601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647" />
+       style="display:inline;opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:12.79674816;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       id="rect938"
+       width="227.34344"
+       height="257.30634"
+       x="-8.5376501"
+       y="-11.317877" />
   </g>
 </svg>
