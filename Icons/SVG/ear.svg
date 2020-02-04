@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ear.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="F:\DEV_SRC\RainboxUI\Icons\25w\w25_ear_l.png"
+   inkscape:export-xdpi="4.6900001"
+   inkscape:export-ydpi="4.6900001">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3378"
+     inkscape:window-height="1417"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="1.0158824"
+     inkscape:cx="459.19924"
+     inkscape:cy="111.91547"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 251.05664 44.513672 C 154.00964 44.513672 75.056641 123.46667 75.056641 220.51367 C 75.056641 278.622 120.61253 305.76088 155.9668 370.12891 C 191.32107 434.49694 181.36782 470.5171 247.05664 472.51367 C 306.53164 472.51367 354.93264 424.18623 355.05664 364.74023 C 355.65164 330.31223 427.05664 316.49967 427.05664 220.51367 C 427.05664 123.46667 348.10364 44.513672 251.05664 44.513672 z M 208.7207 147.89453 C 246.17158 148.03464 282.80855 166.62691 304.36719 200.5 C 338.01969 253.37508 322.38096 323.77129 269.50586 357.42383 C 250.96987 369.22111 226.38128 363.75866 214.58398 345.22266 C 202.78669 326.68664 208.24915 302.09611 226.78516 290.29883 C 242.64816 280.20276 247.33747 259.08446 237.24219 243.22266 C 227.14688 227.36085 206.02903 222.66762 190.16602 232.76367 C 171.63003 244.56098 147.0395 239.09849 135.24219 220.5625 C 123.4449 202.0265 128.90734 177.43598 147.44336 165.63867 C 166.44533 153.5448 187.71168 147.81593 208.7207 147.89453 z "
+     id="path2"
+     style="fill:#e3e3e3;fill-opacity:1" />
+</svg>

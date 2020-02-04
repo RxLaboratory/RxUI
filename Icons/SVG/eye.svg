@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 3779.5277 3779.5274"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="eye.svg"
+   width="100cm"
+   height="100cm"
+   inkscape:export-filename="F:\DEV_SRC\RainboxUI\Icons\25w\w25_eye_r.png"
+   inkscape:export-xdpi="0.63"
+   inkscape:export-ydpi="0.63"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3378"
+     inkscape:window-height="1417"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.14134216"
+     inkscape:cx="4388.6853"
+     inkscape:cy="984.47697"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4"
+     units="cm" />
+  <path
+     d="M 3659.2403,1837.2544 C 3326.1598,1187.3697 2666.755,747.66367 1911.7194,747.66367 c -755.0357,0 -1414.62467,440.01323 -1747.5209,1089.65153 a 198.69359,198.69359 0 0 0 0,179.2853 c 333.08049,649.8846 992.4852,1089.5899 1747.5209,1089.5899 755.0356,0 1414.6246,-440.0124 1747.5209,-1089.6515 a 198.69359,198.69359 0 0 0 0,-179.2845 z m -1747.5209,974.1207 a 884.44754,884.44754 0 1 1 884.4475,-884.448 884.0176,884.0176 0 0 1 -884.4475,884.448 z m 0,-1474.0793 a 585.3937,585.3937 0 0 0 -155.4539,23.2781 293.89454,293.89454 0 0 1 -410.8996,410.8993 588.28044,588.28044 0 1 0 566.3535,-434.1774 z"
+     id="path2"
+     style="fill:#e3e3e3;fill-opacity:1;stroke-width:6.14199686"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="F:\DEV_SRC\RainboxUI\Icons\25w\w25_eye_l.png"
+     inkscape:export-xdpi="0.63"
+     inkscape:export-ydpi="0.63" />
+</svg>
