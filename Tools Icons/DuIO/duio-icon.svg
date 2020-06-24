@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 127.33144 91.091507"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="duio-icon.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   width="127.33144"
+   height="91.091507">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Fichier 6</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1870"
+     inkscape:window-height="1052"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="1.3390884"
+     inkscape:cx="-248.2615"
+     inkscape:cy="83.680175"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#e3e3e2;stroke:#701034;stroke-miterlimit:10;stroke-width:2px;}.cls-2{fill:#e52221;}</style>
+    <style
+       id="style888">.cls-1{font-size:172.57px;fill:#1d1d1b;font-family:MyriadPro-Regular, Myriad Pro;}</style>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath846">
+      <rect
+         style="font-size:172.57000732px;font-family:MyriadPro-Regular, 'Myriad Pro';display:inline;fill:#e3e3e2;stroke:#701034;stroke-width:2.00308847;stroke-miterlimit:10;stroke-dasharray:none"
+         id="rect848"
+         rx="23.48"
+         height="122.62"
+         width="122.62"
+         y="1"
+         x="1"
+         class="cls-1" />
+    </clipPath>
+  </defs>
+  <title
+     id="title6">Fichier 6</title>
+  <g
+     id="g1002"
+     inkscape:label="icon"
+     transform="translate(-30.183885,-48.304688)">
+    <path
+       style="fill:#710132;stroke-width:0.20330486"
+       d="m 71.322266,48.304688 c -2.70396,-10e-7 -4.878907,2.174956 -4.878907,4.878906 V 111.61328 L 43.103516,87.115234 c -1.89073,-1.97203 -5.041267,-2.013421 -6.972657,-0.08203 l -4.513671,4.513672 c -1.91107,1.89074 -1.91107,4.981508 0,6.892578 l 39.521484,39.523436 c 1.89074,1.91107 4.981508,1.91107 6.892578,0 l 26.95898,-26.97461 v 23.52734 c 0,2.70395 2.17495,4.87891 4.87891,4.87891 h 6.50586 c 2.70396,0 4.88086,-2.17496 4.88086,-4.87891 V 76.085938 l 23.33789,24.498042 c 1.89072,1.99239 5.04321,2.03379 6.97461,0.082 l 4.51367,-4.513676 c 1.91107,-1.91107 1.91107,-5.001838 0,-6.892578 L 116.58008,49.738281 c -1.91107,-1.91107 -5.00184,-1.91107 -6.89258,0 L 82.707031,76.716797 V 53.183594 c 0,-2.70395 -2.174946,-4.878906 -4.878906,-4.878906 z m 33.667964,27.78125 V 88.224609 L 82.707031,111.61328 V 99.474609 Z"
+       id="path987"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
