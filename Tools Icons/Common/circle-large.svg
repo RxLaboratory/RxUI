@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="248.43982"
-   height="283.95071"
-   viewBox="0 0 65.733032 75.128628"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="DuME-icon-medium.svg">
+   sodipodi:docname="circle-large.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="341.70846"
-     inkscape:cy="78.666239"
+     inkscape:cx="160.4194"
+     inkscape:cy="333.40235"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,11 +36,7 @@
      inkscape:window-height="1052"
      inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,19 +53,12 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-42.151673,-191.70233)">
-    <path
-       id="path841"
-       d="M 104.42372,223.2005 52.7749,192.66605 c -4.196469,-2.47973 -10.623227,-0.0734 -10.623227,6.05994 v 61.0542 c 0,5.50235 5.971896,8.81846 10.623227,6.05992 l 51.64882,-30.51976 c 4.60732,-2.71449 4.62198,-9.40537 0,-12.11985 z"
-       inkscape:connector-curvature="0"
-       style="fill:#710132;stroke-width:0.14672962" />
-    <rect
-       style="opacity:1;fill:#ec1818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.49214745;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect922"
-       width="29.583567"
-       height="29.583567"
-       x="50.810173"
-       y="214.47487"
-       ry="8.4524469" />
+     transform="translate(0,-161.53331)">
+    <circle
+       style="opacity:1;fill:#e3e4e3;fill-opacity:1;fill-rule:nonzero;stroke:#710132;stroke-width:5.51900005;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="circle834"
+       cx="67.73333"
+       cy="229.26665"
+       r="64.927773" />
   </g>
 </svg>

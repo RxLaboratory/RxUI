@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   viewBox="0 0 135.46666 135.46667"
+   width="218.68289"
+   height="249.94043"
+   viewBox="0 0 57.859846 66.130074"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="224.10041"
-     inkscape:cy="-131.20317"
+     inkscape:cx="-888.33767"
+     inkscape:cy="-264.10149"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,11 @@
      inkscape:window-height="1052"
      inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,13 +57,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-161.53331)">
-    <circle
-       style="opacity:1;fill:#e3e4e3;fill-opacity:1;fill-rule:nonzero;stroke:#710132;stroke-width:15.06127071;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="circle834"
-       cx="67.815102"
-       cy="229.21959"
-       r="60.128521" />
+     transform="translate(-44.168293,-195.70722)">
     <path
        id="path841"
        d="M 98.981695,223.43268 53.519119,196.55551 c -3.693835,-2.18272 -9.350826,-0.0646 -9.350826,5.33411 v 53.74141 c 0,4.84331 5.25661,7.76222 9.350826,5.3341 l 45.462576,-26.86425 c 4.055465,-2.38937 4.068385,-8.27884 0,-10.6682 z"
