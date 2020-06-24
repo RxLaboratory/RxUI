@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500"
-   height="500"
-   viewBox="0 0 132.29166 132.29167"
+   width="251.49304"
+   height="334.14008"
+   viewBox="0 0 66.540864 88.407897"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="durpresets.svg">
   <defs
      id="defs2" />
@@ -25,18 +25,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2342059"
-     inkscape:cx="510.62658"
-     inkscape:cy="258.51208"
+     inkscape:zoom="0.87271536"
+     inkscape:cx="229.61266"
+     inkscape:cy="103.7191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="3378"
-     inkscape:window-height="1417"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1870"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -53,7 +57,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-164.70831)">
+     transform="translate(-32.565811,-187.83818)">
     <path
        id="path819"
        d="m 87.911316,199.94501 v 31.13185 c 0,2.86456 -2.324082,5.18864 -5.188638,5.18864 H 37.754452 c -2.864562,0 -5.188641,-2.32408 -5.188641,-5.18864 v -31.13185 c 0,-2.86456 2.324079,-5.18864 5.188641,-5.18864 h 9.512509 l 1.32959,-3.55638 c 0.756676,-2.02141 2.691608,-3.36181 4.853541,-3.36181 h 13.566134 c 2.161935,0 4.096865,1.3404 4.853542,3.36181 l 1.340399,3.55638 h 9.512511 c 2.864556,0 5.188638,2.32408 5.188638,5.18864 z m -14.701149,15.56592 c 0,-7.156 -5.815602,-12.9716 -12.971603,-12.9716 -7.156,0 -12.971603,5.8156 -12.971603,12.9716 0,7.15601 5.815603,12.9716 12.971603,12.9716 7.156001,0 12.971603,-5.81559 12.971603,-12.9716 z m -3.459094,0 c 0,5.24269 -4.269819,9.51251 -9.512509,9.51251 -5.24269,0 -9.512509,-4.26982 -9.512509,-9.51251 0,-5.24269 4.269819,-9.5125 9.512509,-9.5125 5.24269,0 9.512509,4.26981 9.512509,9.5125 z"
