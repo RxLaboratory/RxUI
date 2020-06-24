@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="125"
-   height="125"
-   viewBox="0 0 33.072916 33.072918"
+   width="217.83708"
+   height="219.83298"
+   viewBox="0 0 57.636058 58.164143"
    version="1.1"
    id="svg1788"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="uxrandr.svg"
    inkscape:export-filename="/media/Data2/DEV_SRC/uxrandr/uxrandr/icon.png"
    inkscape:export-xdpi="197.13"
@@ -28,18 +28,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-42.399134"
-     inkscape:cy="90.231993"
+     inkscape:zoom="0.7"
+     inkscape:cx="-344.66717"
+     inkscape:cy="74.798951"
      inkscape:document-units="mm"
      inkscape:current-layer="svg1788"
      showgrid="false"
      units="px"
-     inkscape:window-width="3389"
-     inkscape:window-height="1387"
-     inkscape:window-x="51"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1870"
+     inkscape:window-height="1052"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata1785">
     <rdf:RDF>
@@ -56,17 +60,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="BG"
-     style="display:inline">
-    <circle
-       style="fill:#e3e3e3;fill-opacity:1;stroke:#701034;stroke-width:2.05021834;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="path2704"
-       cx="16.574743"
-       cy="16.592188"
-       r="15.467743" />
-  </g>
+     style="display:inline"
+     transform="translate(-38.643697,63.173805)" />
   <g
      id="g2492"
-     transform="matrix(0.22475358,0,0,0.22475358,2.3451494,2.8325712)"
+     transform="matrix(0.92268796,0,0,0.92268796,-29.27038,-27.937574)"
      style="fill:none;stroke:none">
     <rect
        style="fill:none;fill-opacity:1;stroke:#701034;stroke-width:0.91572297;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
