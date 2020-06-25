@@ -35,19 +35,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="893"
-     inkscape:window-height="480"
+     inkscape:window-width="1870"
+     inkscape:window-height="1025"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="0.4609375"
-     inkscape:cx="-41.220339"
-     inkscape:cy="256"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="-46.739618"
+     inkscape:cy="217.24141"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M224 136V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zm64 236c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-64c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12v8zm0-72v8c0 6.6-5.4 12-12 12H108c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h168c6.6 0 12 5.4 12 12zm96-114.1v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"
-     id="path2"
-     style="fill:#710132" />
+     style="opacity:1;fill:#e3e4e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:33.21264267;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 224,0 v 136 c 0,13.2 10.8,24 24,24 H 384 V 128 H 256 V 0 Z M 108,224 c -6.6,0 -12,5.4 -12,12 v 8 c 0,6.6 5.4,12 12,12 h 168 c 6.6,0 12,-5.4 12,-12 v -8 c 0,-6.6 -5.4,-12 -12,-12 z m 0,64 c -6.6,0 -12,5.4 -12,12 v 8 c 0,6.6 5.4,12 12,12 h 168 c 6.6,0 12,-5.4 12,-12 v -8 c 0,-6.6 -5.4,-12 -12,-12 z m 0,64 c -6.6,0 -12,5.4 -12,12 v 8 c 0,6.6 5.4,12 12,12 h 168 c 6.6,0 12,-5.4 12,-12 v -8 c 0,-6.6 -5.4,-12 -12,-12 z"
+     id="rect812"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csscccccsssssssssssssssssssssssssss" />
+  <path
+     style="display:inline;fill:#710132"
+     id="path816"
+     d="M 224,136 V 0 H 24 C 10.7,0 0,10.7 0,24 v 464 c 0,13.3 10.7,24 24,24 h 336 c 13.3,0 24,-10.7 24,-24 V 160 H 248 c -13.2,0 -24,-10.8 -24,-24 z m 64,236 c 0,6.6 -5.4,12 -12,12 H 108 c -6.6,0 -12,-5.4 -12,-12 v -8 c 0,-6.6 5.4,-12 12,-12 h 168 c 6.6,0 12,5.4 12,12 z m 0,-64 c 0,6.6 -5.4,12 -12,12 H 108 c -6.6,0 -12,-5.4 -12,-12 v -8 c 0,-6.6 5.4,-12 12,-12 h 168 c 6.6,0 12,5.4 12,12 z m 0,-72 v 8 c 0,6.6 -5.4,12 -12,12 H 108 c -6.6,0 -12,-5.4 -12,-12 v -8 c 0,-6.6 5.4,-12 12,-12 h 168 c 6.6,0 12,5.4 12,12 z M 384,121.9 V 128 H 256 V 0 h 6.1 c 6.4,0 12.5,2.5 17,7 l 97.9,98 c 4.5,4.5 7,10.6 7,16.9 z"
+     inkscape:connector-curvature="0" />
 </svg>
