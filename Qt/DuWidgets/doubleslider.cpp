@@ -11,19 +11,21 @@ DoubleSlider::DoubleSlider(QWidget *parent) : QStackedWidget(parent)
     _value = 0;
 
     setSizePolicy(QSizePolicy::Expanding,QSizePolicy::Preferred);
-    slider = new SimpleSlider(this);
 
-    spinBox = new QDoubleSpinBox(this);
-    spinBox->setMinimum(0);
-    spinBox->setMaximum(100);
+    _slider = new SimpleSlider(this);
+    _slider->setMaximum(10000);
 
-    addWidget(slider);
-    addWidget(spinBox);
+    _spinBox = new QDoubleSpinBox(this);
+    _spinBox->setMinimum(0);
+    _spinBox->setMaximum(100);
 
-    connect(spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
-    connect(spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
-    connect(spinBox,SIGNAL(valueChanged(double)),this,SLOT(setValue(double)));
-    connect(slider,SIGNAL(valueChanged(int)),this,SLOT(setValue(int)));
+    addWidget(_slider);
+    addWidget(_spinBox);
+
+    connect(_spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
+    connect(_spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
+    connect(_spinBox,SIGNAL(valueChanged(double)),this,SLOT(setValue(double)));
+    connect(_slider,SIGNAL(valueChanged(int)),this,SLOT(sliderValue(int)));
 }
 
 void DoubleSlider::setEditMode()
@@ -43,8 +45,8 @@ double DoubleSlider::value() const
 
 void DoubleSlider::setValue(double value)
 {
-    slider->setValue(value);
-    spinBox->setValue(value);
+    _slider->setValue(value * qPow(10,_decimals));
+    _spinBox->setValue(value);
     _value = value;
     updateText();
     emit valueChanged(_value);
@@ -52,11 +54,26 @@ void DoubleSlider::setValue(double value)
 
 void DoubleSlider::setValue(int value)
 {
-    slider->setValue(value);
-    spinBox->setValue(value);
+    _slider->setValue(value);
+    _spinBox->setValue(value);
     _value = value;
     updateText();
     emit valueChanged(_value);
+}
+
+QDoubleSpinBox *DoubleSlider::spinBox() const
+{
+    return _spinBox;
+}
+
+SimpleSlider *DoubleSlider::slider() const
+{
+    return _slider;
+}
+
+void DoubleSlider::sliderValue(int value)
+{
+    setValue(value / qPow(10,_decimals));
 }
 
 int DoubleSlider::decimals() const
@@ -66,15 +83,13 @@ int DoubleSlider::decimals() const
 
 void DoubleSlider::setDecimals(int decimals)
 {
-    spinBox->setDecimals(decimals);
+    _spinBox->setDecimals(decimals);
     _decimals = decimals;
 }
 
 void DoubleSlider::updateText()
 {
-    int v = _value;
-    double d = _value - v;
-    slider->setFormat(_prefix + "%v." + QString::number(d).right(_decimals) + _suffix);
+    _slider->setFormat(_prefix + QString::number(_value) + _suffix);
 }
 
 QString DoubleSlider::suffix() const
@@ -84,7 +99,7 @@ QString DoubleSlider::suffix() const
 
 void DoubleSlider::setSuffix(const QString &suffix)
 {
-    spinBox->setPrefix(suffix);
+    _spinBox->setPrefix(suffix);
     _suffix = suffix;
     updateText();
 }
@@ -96,7 +111,7 @@ QString DoubleSlider::prefix() const
 
 void DoubleSlider::setPrefix(const QString &prefix)
 {
-    spinBox->setPrefix(prefix);
+    _spinBox->setPrefix(prefix);
     _prefix = prefix;
     updateText();
 }
@@ -108,8 +123,8 @@ double DoubleSlider::minimum() const
 
 void DoubleSlider::setMinimum(double minimum)
 {
-    spinBox->setMinimum(minimum);
-    slider->setMinimum(minimum);
+    _spinBox->setMinimum(minimum);
+    _slider->setMinimum(minimum * qPow(10,_decimals));
     _minimum = minimum;
 }
 
@@ -120,8 +135,8 @@ double DoubleSlider::maximum() const
 
 void DoubleSlider::setMaximum(double maximum)
 {
-    spinBox->setMaximum(maximum);
-    slider->setMaximum(maximum);
+    _spinBox->setMaximum(maximum);
+    _slider->setMaximum(maximum * qPow(10,_decimals));
     _maximum = maximum;
 }
 

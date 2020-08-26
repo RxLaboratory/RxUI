@@ -18,7 +18,9 @@ MainWindow::MainWindow(QWidget *parent)
     mainLayout->insertWidget(3,new IntSlider(this));
 
     // DoubleSlider
+    DoubleSlider *ds = new DoubleSlider(this);
+    ds->setMaximum(10);
     mainLayout->insertWidget(4,new QLabel("Double Slider:"));
-    mainLayout->insertWidget(5,new DoubleSlider(this));
+    mainLayout->insertWidget(5,ds);
 }
 

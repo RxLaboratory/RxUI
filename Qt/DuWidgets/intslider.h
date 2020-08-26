@@ -25,6 +25,10 @@ public:
 
     int value() const;
 
+    SimpleSlider *slider() const;
+
+    QSpinBox *spinBox() const;
+
 signals:
     void valueChanged(int);
 
@@ -34,8 +38,8 @@ public slots:
     void setValue(int value);
 
 private:
-    SimpleSlider *slider;
-    QSpinBox *spinBox;
+    SimpleSlider *_slider;
+    QSpinBox *_spinBox;
     bool _mouseMoving;
     int _value;
     int _minimum;

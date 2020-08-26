@@ -4,6 +4,7 @@
 #include <QStackedWidget>
 #include "simpleslider.h"
 #include <QDoubleSpinBox>
+#include <QtMath>
 
 class DoubleSlider : public QStackedWidget
 {
@@ -28,6 +29,10 @@ public:
 
     double value() const;
 
+    SimpleSlider *slider() const;
+
+    QDoubleSpinBox *spinBox() const;
+
 signals:
     void valueChanged(double);
 
@@ -38,8 +43,8 @@ public slots:
     void setValue(int value);
 
 private:
-    SimpleSlider *slider;
-    QDoubleSpinBox *spinBox;
+    SimpleSlider *_slider;
+    QDoubleSpinBox *_spinBox;
     bool _mouseMoving;
     double _value;
     double _minimum;
@@ -49,6 +54,7 @@ private:
     int _decimals;
 
 private slots:
+    void sliderValue(int value);
     void updateText();
 
 protected:

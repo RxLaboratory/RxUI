@@ -11,18 +11,18 @@ IntSlider::IntSlider(QWidget *parent)
     _value = 0;
 
     setSizePolicy(QSizePolicy::Expanding,QSizePolicy::Preferred);
-    slider = new SimpleSlider(this);
+    _slider = new SimpleSlider(this);
 
-    spinBox = new QSpinBox(this);
-    spinBox->setMinimum(0);
-    spinBox->setMaximum(100);
+    _spinBox = new QSpinBox(this);
+    _spinBox->setMinimum(0);
+    _spinBox->setMaximum(100);
 
-    addWidget(slider);
-    addWidget(spinBox);
+    addWidget(_slider);
+    addWidget(_spinBox);
 
-    connect(spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
-    connect(spinBox,SIGNAL(valueChanged(int)),this,SLOT(setValue(int)));
-    connect(slider,SIGNAL(valueChanged(int)),this,SLOT(setValue(int)));
+    connect(_spinBox,SIGNAL(editingFinished()),this,SLOT(setSliderMode()));
+    connect(_spinBox,SIGNAL(valueChanged(int)),this,SLOT(setValue(int)));
+    connect(_slider,SIGNAL(valueChanged(int)),this,SLOT(setValue(int)));
 }
 
 void IntSlider::setEditMode()
@@ -42,10 +42,20 @@ int IntSlider::value() const
 
 void IntSlider::setValue(int value)
 {
-    spinBox->setValue(value);
-    slider->setValue(value);
+    _spinBox->setValue(value);
+    _slider->setValue(value);
     _value = value;
     emit valueChanged(_value);
+}
+
+QSpinBox *IntSlider::spinBox() const
+{
+    return _spinBox;
+}
+
+SimpleSlider *IntSlider::slider() const
+{
+    return _slider;
 }
 
 QString IntSlider::suffix() const
@@ -55,8 +65,8 @@ QString IntSlider::suffix() const
 
 void IntSlider::setSuffix(const QString &suffix)
 {
-    spinBox->setPrefix(suffix);
-    slider->setFormat(_prefix + "%v" + suffix);
+    _spinBox->setPrefix(suffix);
+    _slider->setFormat(_prefix + "%v" + suffix);
     _suffix = suffix;
 }
 
@@ -67,8 +77,8 @@ QString IntSlider::prefix() const
 
 void IntSlider::setPrefix(const QString &prefix)
 {
-    spinBox->setPrefix(prefix);
-    slider->setFormat(prefix + "%v" + _suffix);
+    _spinBox->setPrefix(prefix);
+    _slider->setFormat(prefix + "%v" + _suffix);
     _prefix = prefix;
 }
 
@@ -79,8 +89,8 @@ int IntSlider::maximum() const
 
 void IntSlider::setMaximum(int maximum)
 {
-    spinBox->setMaximum(maximum);
-    slider->setMaximum(maximum);
+    _spinBox->setMaximum(maximum);
+    _slider->setMaximum(maximum);
     _maximum = maximum;
 }
 
@@ -91,8 +101,8 @@ int IntSlider::minimum() const
 
 void IntSlider::setMinimum(int minimum)
 {
-    spinBox->setMinimum(minimum);
-    slider->setMinimum(minimum);
+    _spinBox->setMinimum(minimum);
+    _slider->setMinimum(minimum);
     _minimum = minimum;
 }
 
