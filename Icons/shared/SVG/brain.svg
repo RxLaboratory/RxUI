@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Calque_1"
+   data-name="Calque 1"
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="brain.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\DEV_SRC\RxUI\Icons\shared\14w\w14_brain_b.png"
+   inkscape:export-xdpi="42"
+   inkscape:export-ydpi="42">
+  <metadata
+     id="metadata4566">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>12layerik_r</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1121"
+     id="namedview4564"
+     showgrid="false"
+     inkscape:zoom="9.9585027"
+     inkscape:cx="10.465182"
+     inkscape:cy="8.3361837"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calque_1" />
+  <defs
+     id="defs4545">
+    <style
+       id="style4543">.cls-1{fill:#ec1818;}</style>
+  </defs>
+  <title
+     id="title4547">12layerik_r</title>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 12.168344,3.286776 c -1.442836,0 -2.6395683,0.9892344 -2.9821825,2.3259097 -0.038603,0 -0.067558,-0.00965 -0.106161,-0.00965 -1.7034154,0 -3.0883452,1.3849276 -3.0883452,3.0883427 0,0.2316265 0.028955,0.4584278 0.082035,0.6755765 -1.4090557,0.5790654 -2.3982925,1.9591681 -2.3982925,3.5708981 0,0.608017 0.1544181,1.172605 0.4005207,1.684112 -1.1581287,0.665925 -1.9446921,1.901263 -1.9446921,3.334447 0,1.606904 0.9844091,2.987009 2.383817,3.566075 -0.043432,0.221973 -0.067558,0.448775 -0.067558,0.680398 0,1.920565 1.5538217,3.474388 3.4743878,3.474388 0.1978456,0 0.3908678,-0.02413 0.5790631,-0.05791 0.4632533,1.37528 1.7468447,2.374167 3.2813667,2.374167 1.920564,0 3.474386,-1.553825 3.474386,-3.474388 V 6.3751166 c 0,-1.703415 -1.384928,-3.0883448 -3.088343,-3.0883448 z m 17.757981,14.669636 c 0,-1.433185 -0.786563,-2.668523 -1.944691,-3.334447 0.250928,-0.511508 0.400519,-1.076096 0.400519,-1.684112 0,-1.611731 -0.989234,-2.9918332 -2.398293,-3.5708986 0.04826,-0.2171487 0.08203,-0.44395 0.08203,-0.6755765 0,-1.703415 -1.384929,-3.0883427 -3.088345,-3.0883427 -0.0386,0 -0.07239,0.00965 -0.106162,0.00965 C 22.52877,4.2760099 21.332036,3.2867756 19.8892,3.2867756 c -1.703414,0 -3.088344,1.3801046 -3.088344,3.0883448 V 24.519149 c 0,1.920563 1.553823,3.474387 3.474388,3.474387 1.53452,0 2.818114,-0.998887 3.281364,-2.374167 0.188197,0.03378 0.381218,0.05791 0.579066,0.05791 1.920563,0 3.474388,-1.553823 3.474388,-3.474387 0,-0.231624 -0.02413,-0.458426 -0.06756,-0.680399 1.399405,-0.579066 2.383815,-1.959171 2.383815,-3.566074 z"
+     id="path2"
+     style="stroke-width:0.04825538;fill:#434343;fill-opacity:1"
+     inkscape:export-filename="C:\DEV_SRC\RxUI\Icons\shared\14w\w14_brain_p.png"
+     inkscape:export-xdpi="42"
+     inkscape:export-ydpi="42" />
+</svg>
