@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666669"
+   version="1.1"
+   id="svg823"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="screwdriver.svg"
+   inkscape:export-filename="C:\DEV_SRC\RxUI\Icons\shared\18w\w18_screwdriver_l.png"
+   inkscape:export-xdpi="54"
+   inkscape:export-ydpi="54">
+  <defs
+     id="defs817" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="13.429722"
+     inkscape:cy="24.01291"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata820">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53332)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 7.2777684,288.72515 -1.9927176,1.49454 v 0.96616 l -1.2926197,1.29262 c 0.1057073,0.0661 0.2065889,0.14104 0.2968836,0.2315 0.090295,0.0903 0.1653333,0.19117 0.2314978,0.29687 l 1.2926198,-1.29262 h 0.9661565 l 1.494538,-1.99271 z m -4.9817937,4.33712 -1.82271339,1.82272 c -0.22651593,0.22651 -0.22651593,0.59391 0,0.82059 l 0.82043909,0.82044 c 0.2266714,0.22667 0.593923,0.22667 0.8205947,0 l 1.8227134,-1.82271 c 0.4531875,-0.4532 0.4531875,-1.18786 0,-1.64104 -0.4531873,-0.45319 -1.1878462,-0.45319 -1.6410338,0 z"
+       id="path2"
+       style="stroke-width:0.0155681;fill:#e3e3e3;fill-opacity:1"
+       inkscape:export-filename="C:\DEV_SRC\RxUI\Icons\shared\18w\w18_screwdriver_l.png"
+       inkscape:export-xdpi="54"
+       inkscape:export-ydpi="54" />
+  </g>
+</svg>
