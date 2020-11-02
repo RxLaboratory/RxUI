@@ -432,6 +432,10 @@ QToolBar QComboBox {
         background-color: @color-light;
 }
 
+QToolBar QLabel {
+    background-color: @color-medium;
+}
+
 QToolButton:!enabled {
         color: @color-dark;
 }
@@ -443,10 +447,6 @@ QToolButton:checked {
 QToolBar QPushButton:checked {
         background-color: @color-less-light;
         color: @color-dark;
-}
-
-SearchWidget QPushButton {
-        background-color: @color-medium;
 }
 
 QToolButton:pressed:hover,  QToolBar QPushButton:pressed:hover {
@@ -567,7 +567,7 @@ QListWidget {
 }
 
 QListWidget::item {
-        padding:@edit-padding;;
+   padding:@edit-padding;
 }
 
 QListWidget::item:hover {
@@ -585,6 +585,16 @@ QListWidget:disabled {
         background-color: @color-dark;
         border-color: @color-dark;
         color: @color-medium;
+}
+
+QListWidget QLineEdit {
+    background-color: @color-dark;
+    color: @color-light;
+    border: none;
+    border-radius: 0;
+    padding:0;
+    selection-color: @color-dark;
+    selection-background-color: @color-light;
 }
 
 /* TABLE */
