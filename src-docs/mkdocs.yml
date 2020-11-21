@@ -1,0 +1,31 @@
+site_name: RxUI - Rainbox Lab. UI
+site_url: https://rainboxlab.org
+repo_url: https://github.com/Rainbox-dev/RxUI/
+edit_uri: edit/master/src-docs/docs/
+site_description: The RxUI Documentation
+site_author: Nicolas Dufresne and contributors
+copyright: 'Copyright © 2020 Nicolas Dufresne and Rainbox Lab.'
+theme:
+    name: readthedocs
+    custom_dir: theme/
+markdown_extensions:
+    - smarty
+    - footnotes
+    - tables
+    - admonition
+    - codehilite
+    - fenced_code
+    - toc
+extra_css:
+    - style.css
+    - video.css
+extra_javascript:
+    - video.js
+site_dir: ../docs/
+dev_addr: '127.0.0.1:8001'
+nav:
+    - About: index.md
+    - Icons: 
+      - Guidelines: icons.md
+      - Symbols: icon-symbols.md
+      - List: icon-list.md

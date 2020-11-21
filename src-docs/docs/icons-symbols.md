@@ -1,0 +1,3 @@
+# Symbols for icons
+
+TODO
