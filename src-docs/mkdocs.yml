@@ -16,6 +16,7 @@ markdown_extensions:
     - codehilite
     - fenced_code
     - toc
+    - attr_list
 extra_css:
     - style.css
     - video.css
@@ -26,6 +27,9 @@ dev_addr: '127.0.0.1:8001'
 nav:
     - About: index.md
     - Icons: 
-      - Guidelines: icons.md
-      - Symbols: icon-symbols.md
-      - List: icon-list.md
+      - Introduction: icons.md
+      - Guidelines: icons-guidelines.md
+      - Colors: icons-colors.md
+      - Badges: icons-badges.md
+      - Symbols: icons-symbols.md
+      - Icons: icons-list.md
