@@ -13,14 +13,21 @@ This is like building a ***sentence*** (the icon), using ***modal verbs*** (the 
 
 ## Examples
 
-- ![](icons/3_icons/General/savefile_sd.svg) **_Save file_**:
+- ![](icons/3_Icons/General/savefile_sd.svg) **_Save file_**:
     - ![](icons/0_Colors/modification_d.svg){: style="height:18px;width:18px"} *Modification* Color
     - ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} *File* Symbol
     - ![](icons/1_Badges/save_sd.svg){: style="height:15px;width:15px"} *Save* Badge
-- ![](icons/3_icons/General/savefileas_sd.svg) **_Save file as_**:
+- ![](icons/3_Icons/General/savefileas_sd.svg) **_Save file as_**:
     - ![](icons/0_Colors/creation_d.svg){: style="height:18px;width:18px"} *Creation* Color
     - ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} *File* Symbol
     - ![](icons/1_Badges/saveas_sd.svg){: style="height:15px;width:15px"} *Save as* Badge
+- ![](icons/3_Icons/General/load-text-file_sd.svg) **_Load text file_**:
+    - ![](icons/0_Colors/creation_d.svg){: style="height:18px;width:18px"} *Creation* Color
+    - ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} *File* Symbol
+    - ![](icons/2_Symbols/General/text_sd.svg){: style="height:18px;width:18px"} *Text* Symbol
+    - ![](icons/1_Badges/load_sd.svg){: style="height:15px;width:15px"} *Load* Badge
+
+
 
 # Colors / General Actions (modal verbs)
 

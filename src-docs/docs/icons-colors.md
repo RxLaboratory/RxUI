@@ -29,5 +29,5 @@ For use on light backgrounds
 | ![](icons/0_Colors/neutral_d.svg) | | Neutral | Application specific color |
 | ![](icons/0_Colors/creation_d.svg) | #3e8b45 | Creation | Adds something new |
 | ![](icons/0_Colors/modification_d.svg) | #8109ad | Modification | Modifies existing objects |
-| ![](icons/0_Colors/deletion_d.svg) | #f96969 | Deletion | Removes something |
+| ![](icons/0_Colors/deletion_d.svg) | #ac1010 | Deletion | Removes something |
 | ![](icons/0_Colors/settings_d.svg) | #10688e | Settings | Changes further behavior |
