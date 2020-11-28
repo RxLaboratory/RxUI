@@ -40,12 +40,39 @@
 | ![](icons/3_Icons/File/text-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/text-file_sd.svg){: style="height:28px;width:28px"} | Text File |
 | ![](icons/3_Icons/File/video-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/video-file_sd.svg){: style="height:28px;width:28px"} | Video File |
 
+### General
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/General/add-property_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/add-property_sd.svg){: style="height:28px;width:28px"} | Add Property |
+| ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
+
+### Image
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:28px;width:28px"} | Color Settings |
+| ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:28px;width:28px"} | Pixel Format |
+| ![](icons/3_Icons/Image/set-color-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/set-color-settings_sd.svg){: style="height:28px;width:28px"} | Set Color Settings |
+| ![](icons/3_Icons/Image/set-pixel-format_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/set-pixel-format_sd.svg){: style="height:28px;width:28px"} | Set Pixel Format |
+
 ### Media
 
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:28px;width:28px"} | Audio Codec |
+| ![](icons/3_Icons/Media/audio-quality-sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-quality-sd.svg){: style="height:28px;width:28px"} | Audio Quality Sd |
+| ![](icons/3_Icons/Media/audio-sampling_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-sampling_sd.svg){: style="height:28px;width:28px"} | Audio Sampling |
+| ![](icons/3_Icons/Media/change-audio-sampling_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/change-audio-sampling_sd.svg){: style="height:28px;width:28px"} | Change Audio Sampling |
+| ![](icons/3_Icons/Media/set-video-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-video-codec_sd.svg){: style="height:28px;width:28px"} | Set Video Codec |
+| ![](icons/3_Icons/Media/set-video-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-video-quality_sd.svg){: style="height:28px;width:28px"} | Set Video Quality |
 | ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:28px;width:28px"} | Video Codec |
+| ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:28px;width:28px"} | Video Framerate |
+| ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:28px;width:28px"} | Video Quality |
+| ![](icons/3_Icons/Media/change-video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/change-video-framerate_sd.svg){: style="height:28px;width:28px"} | Change Video Framerate |
+| ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:28px;width:28px"} | Resize Video |
+| ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
+| ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:28px;width:28px"} | Set Codec Settings |
 
 ## Large
 
@@ -78,9 +105,34 @@
 | ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:48px;width:48px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefile_bd.svg){: style="height:48px;width:48px"} | Savefile |
 
+### General
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/General/add-property_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/add-property_bd.svg){: style="height:48px;width:48px"} | Add Property |
+| ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:48px;width:48px"} | Select Connection |
+
+### Image
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:48px;width:48px"} | Color Settings |
+| ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:48px;width:48px"} | Pixel Format |
+| ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:48px;width:48px"} | Set Color Settings |
+| ![](icons/3_Icons/Image/set-pixel-format_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/set-pixel-format_bd.svg){: style="height:48px;width:48px"} | Set Pixel Format |
+
 ### Media
 
 | Icon | Name |
 |---|---|
+| ![](icons/3_Icons/Media/set-video-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-video-codec_bd.svg){: style="height:48px;width:48px"} | Set Video Codec |
 | ![](icons/3_Icons/Media/audio-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/audio-codec_bd.svg){: style="height:48px;width:48px"} | Audio Codec |
+| ![](icons/3_Icons/Media/audio-sampling_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/audio-sampling_bd.svg){: style="height:48px;width:48px"} | Audio Sampling |
+| ![](icons/3_Icons/Media/change-audio-sampling_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/change-audio-sampling_bd.svg){: style="height:48px;width:48px"} | Change Audio Sampling |
+| ![](icons/3_Icons/Media/change-video-framerate_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/change-video-framerate_bd.svg){: style="height:48px;width:48px"} | Change Video Framerate |
+| ![](icons/3_Icons/Media/set-video-quality_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-video-quality_bd.svg){: style="height:48px;width:48px"} | Set Video Quality |
 | ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:48px;width:48px"} | Video Codec |
+| ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:48px;width:48px"} | Resize Video |
+| ![](icons/3_Icons/Media/set-audio-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-audio-codec_bd.svg){: style="height:48px;width:48px"} | Set Audio Codec |
+| ![](icons/3_Icons/Media/set-audio-quality_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-audio-quality_bd.svg){: style="height:48px;width:48px"} | Set Audio Quality |
+| ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:48px;width:48px"} | Set Codec Settings |
