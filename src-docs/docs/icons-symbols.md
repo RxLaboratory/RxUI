@@ -33,6 +33,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Code/binary_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/binary_sd.svg){: style="height:28px;width:28px"} | Binary |
 | ![](icons/2_Symbols/Code/code2_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/code2_sd.svg){: style="height:28px;width:28px"} | Code2 |
 | ![](icons/2_Symbols/Code/code_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/code_sd.svg){: style="height:28px;width:28px"} | Code |
 | ![](icons/2_Symbols/Code/function_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/function_sd.svg){: style="height:28px;width:28px"} | Function |
@@ -94,6 +95,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Code/binary_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Code/binary_bd.svg){: style="height:48px;width:48px"} | Binary |
 
 ### General
 

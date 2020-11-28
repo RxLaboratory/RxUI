@@ -40,6 +40,13 @@
 | ![](icons/3_Icons/File/text-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/text-file_sd.svg){: style="height:28px;width:28px"} | Text File |
 | ![](icons/3_Icons/File/video-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/video-file_sd.svg){: style="height:28px;width:28px"} | Video File |
 
+### Media
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:28px;width:28px"} | Audio Codec |
+| ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:28px;width:28px"} | Video Codec |
+
 ## Large
 
 ### Application
@@ -70,3 +77,10 @@
 | ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:48px;width:48px"} | Render Compute Build File |
 | ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:48px;width:48px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefile_bd.svg){: style="height:48px;width:48px"} | Savefile |
+
+### Media
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Media/audio-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/audio-codec_bd.svg){: style="height:48px;width:48px"} | Audio Codec |
+| ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:48px;width:48px"} | Video Codec |
