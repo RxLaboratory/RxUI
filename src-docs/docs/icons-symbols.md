@@ -27,6 +27,7 @@
 | ![](icons/2_Symbols/Brands/oca_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/oca_sd.svg){: style="height:28px;width:28px"} | Oca |
 | ![](icons/2_Symbols/Brands/photoshop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/photoshop_sd.svg){: style="height:28px;width:28px"} | Photoshop |
 | ![](icons/2_Symbols/Brands/premiere_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/premiere_sd.svg){: style="height:28px;width:28px"} | Premiere |
+| ![](icons/2_Symbols/Brands/qt_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/qt_sd.svg){: style="height:28px;width:28px"} | Qt |
 | ![](icons/2_Symbols/Brands/ramses_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/ramses_sd.svg){: style="height:28px;width:28px"} | Ramses |
 | ![](icons/2_Symbols/Brands/tvpaint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/tvpaint_sd.svg){: style="height:28px;width:28px"} | Tvpaint |
 
@@ -44,6 +45,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
@@ -53,7 +55,6 @@
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
-| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
@@ -67,6 +68,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Image/alpha_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/alpha_sd.svg){: style="height:28px;width:28px"} | Alpha |
 | ![](icons/2_Symbols/Image/color_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/color_sd.svg){: style="height:28px;width:28px"} | Color |
 | ![](icons/2_Symbols/Image/image_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/image_sd.svg){: style="height:28px;width:28px"} | Image |
 | ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:28px;width:28px"} | Layers |
@@ -80,7 +82,10 @@
 | ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:28px;width:28px"} | Audio |
 | ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:28px;width:28px"} | Camera |
 | ![](icons/2_Symbols/Media/film_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/film_sd.svg){: style="height:28px;width:28px"} | Film |
+| ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:28px;width:28px"} | Loop |
 | ![](icons/2_Symbols/Media/music_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/music_sd.svg){: style="height:28px;width:28px"} | Music |
+| ![](icons/2_Symbols/Media/play_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/play_sd.svg){: style="height:28px;width:28px"} | Play |
+| ![](icons/2_Symbols/Media/stop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/stop_sd.svg){: style="height:28px;width:28px"} | Stop |
 | ![](icons/2_Symbols/Media/tutorial_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/tutorial_sd.svg){: style="height:28px;width:28px"} | Tutorial |
 | ![](icons/2_Symbols/Media/video_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/video_sd.svg){: style="height:28px;width:28px"} | Video |
 
@@ -107,15 +112,16 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
 | ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
+| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
 
 ### Image
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Image/alpha_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Image/alpha_bd.svg){: style="height:48px;width:48px"} | Alpha |
 | ![](icons/2_Symbols/Image/layers_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Image/layers_bd.svg){: style="height:48px;width:48px"} | Layers |
 | ![](icons/2_Symbols/Image/layer_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Image/layer_bd.svg){: style="height:48px;width:48px"} | Layer |
 
@@ -123,3 +129,5 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Media/play_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/play_bd.svg){: style="height:48px;width:48px"} | Play |
+| ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:48px;width:48px"} | Stop |
