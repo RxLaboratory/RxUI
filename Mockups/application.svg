@@ -1596,17 +1596,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="650.49809"
-     inkscape:cy="336.96102"
+     inkscape:cx="429.81123"
+     inkscape:cy="433.25034"
      inkscape:document-units="px"
      inkscape:current-layer="svg5096"
      showgrid="false"
      units="px"
-     inkscape:window-width="1849"
+     inkscape:window-width="3440"
      inkscape:window-height="1403"
-     inkscape:window-x="1591"
+     inkscape:window-x="0"
      inkscape:window-y="264"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:snap-text-baseline="false">
     <sodipodi:guide
        position="0,0"
@@ -2111,7 +2111,7 @@
      style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.00726579"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147"
+     style="fill:#535353;fill-opacity:1;stroke:none;stroke-width:0.29482147"
      id="rect7220"
      width="31.186016"
      height="8.3075466"
@@ -2187,7 +2187,7 @@
      height="8.3075466"
      width="31.186016"
      id="rect7244"
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
+     style="fill:#535353;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
   <g
      id="g7250"
      transform="matrix(0.67140176,0,0,0.67140176,12.657467,30.104974)">
@@ -2241,7 +2241,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.96608495px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.07415179;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.07415179"
      x="20.164463"
      y="53.358486"
      id="text7266"><tspan
@@ -2249,7 +2249,7 @@
        sodipodi:role="line"
        x="20.164463"
        y="53.358486"
-       style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.07415179;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.96608495px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Push Button</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke-width:0.07415179">Button:checked</tspan></text>
   <g
      id="g7274"
      transform="matrix(0.67140176,0,0,0.67140176,12.657467,58.524748)"
@@ -2334,6 +2334,14 @@
        x="53.559792"
        sodipodi:role="line"
        id="tspan7329">Tool Button</tspan></text>
+  <rect
+     ry="1.6952232"
+     y="47.83128"
+     x="44.092968"
+     height="8.3075466"
+     width="31.186016"
+     id="rect1816"
+     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
   <path
      inkscape:connector-curvature="0"
      style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.00936107"
@@ -2341,7 +2349,7 @@
      id="path7333" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:2.96608495px;line-height:1.25;font-family:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.07415179;-inkscape-font-specification:'Ubuntu, Normal';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.07415179"
      x="53.559792"
      y="53.056767"
      id="text7337"><tspan
@@ -2349,7 +2357,7 @@
        sodipodi:role="line"
        x="53.559792"
        y="53.056767"
-       style="fill:#e3e3e3;fill-opacity:1;stroke-width:0.07415179;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.96608495px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">Tool Button</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke-width:0.07415179">Tool:checked</tspan></text>
   <path
      id="path7339"
      d="m 49.3895,58.756227 c -0.171775,4.68e-4 -0.341385,0.01967 -0.504736,0.05618 -0.05148,0.01119 -0.08787,0.05732 -0.08787,0.109763 v 0.460371 c -0.207816,0.07395 -0.40077,0.185489 -0.569269,0.328712 L 47.82977,59.48078 c -0.04587,-0.02622 -0.103,-0.01773 -0.138572,0.02161 -0.231219,0.249938 -0.40803,0.5514 -0.511939,0.885594 -0.01592,0.05058 0.0057,0.104876 0.05157,0.131082 l 0.398719,0.230185 c -0.01729,0.09331 -0.0258,0.18784 -0.02823,0.28233 h 1.048077 c 0.02368,-0.391663 0.348949,-0.70352 0.746445,-0.70352 0.412824,0 0.749039,0.336216 0.749039,0.749038 0,0.412822 -0.336215,0.74875 -0.749039,0.74875 -0.01237,0 -0.02437,-0.0011 -0.03659,-0.0017 v 0.98124 c 0,0.232724 -0.123003,0.441901 -0.2927,0.569846 0.285072,0.0404 0.571928,0.02828 0.841515,-0.03198 0.05148,-0.01119 0.08787,-0.05703 0.08787,-0.109475 v -0.460371 c 0.207816,-0.07396 0.40077,-0.185489 0.569269,-0.328712 l 0.398719,0.230185 c 0.04587,0.02623 0.103,0.01773 0.138572,-0.02161 0.231218,-0.249938 0.408031,-0.551111 0.511939,-0.885306 0.01404,-0.05146 -0.0066,-0.106017 -0.05243,-0.132234 l -0.398719,-0.230185 c 0.04025,-0.217183 0.04025,-0.43996 0,-0.657138 l 0.398718,-0.230185 c 0.04587,-0.02622 0.06655,-0.08053 0.05157,-0.131082 -0.103907,-0.333256 -0.28072,-0.634717 -0.511938,-0.885593 -0.03557,-0.03834 -0.09364,-0.04778 -0.138573,-0.02161 l -0.399007,0.230186 C 50.396492,59.565964 50.203826,59.454711 49.995075,59.3817 v -0.459506 c 0,-0.05239 -0.03667,-0.09853 -0.08816,-0.109763 -0.171775,-0.03838 -0.345636,-0.05665 -0.517412,-0.05618 z m -1.804318,2.756749 c -0.202628,0 -0.304976,0.245846 -0.161331,0.3895 l 0.303937,0.304225 -0.725415,0.773814 c -0.04308,0.04597 -0.04455,0.116771 0,0.161332 l 0.295006,0.295005 c 0.04456,0.04455 0.11678,0.04455 0.161331,0 l 0.725415,-0.773814 0.304225,0.303937 c 0.142885,0.142866 0.3895,0.04256 0.3895,-0.161331 v -1.064499 c 0,-0.126019 -0.10215,-0.228169 -0.228169,-0.228169 z"
@@ -2468,15 +2476,7 @@
          height="16.987734"
          width="264.3743"
          id="rect2725" /></flowRegion><flowPara
-       id="flowPara2729">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat scelerisque mauris a vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in velit ipsum. Quisque iaculis tincidunt lorem, ut placerat ex mattis pulvinar. Integer non ipsum eu est rutrum tincidunt. Etiam condimentum eget ligula at finibus. Mauris tincidunt in dolor sed ultrices. Vivamus aliquam elit lacinia, porttitor sapien non, tempus turpis. In rhoncus felis a quam luctus, non ultrices enim tempor. Donec posuere mauris vitae ipsum cursus dignissim. Proin ullamcorper eleifend eros, sed posuere dui. Nulla vel libero sit amet dolor feugiat pellentesque. </flowPara></flowRoot>  <rect
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147"
-     id="rect2733"
-     width="27.431503"
-     height="6.3021636"
-     x="90.055344"
-     y="89.034431"
-     ry="0.71794146" />
-  <flowRoot
+       id="flowPara2729">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras volutpat scelerisque mauris a vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in velit ipsum. Quisque iaculis tincidunt lorem, ut placerat ex mattis pulvinar. Integer non ipsum eu est rutrum tincidunt. Etiam condimentum eget ligula at finibus. Mauris tincidunt in dolor sed ultrices. Vivamus aliquam elit lacinia, porttitor sapien non, tempus turpis. In rhoncus felis a quam luctus, non ultrices enim tempor. Donec posuere mauris vitae ipsum cursus dignissim. Proin ullamcorper eleifend eros, sed posuere dui. Nulla vel libero sit amet dolor feugiat pellentesque. </flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot2741"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none"
@@ -2566,7 +2566,7 @@
      height="8.3075466"
      width="35.022472"
      id="rect2810"
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
+     style="fill:#535353;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
   <text
      id="text2820"
      y="25.143227"
@@ -2579,7 +2579,7 @@
        sodipodi:role="line"
        id="tspan2822">Combo Box</tspan></text>
   <g
-     transform="matrix(-0.44448125,0,0,0.44448125,122.18868,-106.30017)"
+     transform="matrix(-0.32782231,0,0,0.32782231,121.06435,-71.983619)"
      id="layer1-7"
      inkscape:label="Layer 1">
     <path
@@ -2611,7 +2611,7 @@
   <g
      inkscape:label="Layer 1"
      id="g2851"
-     transform="matrix(-0.44448125,0,0,0.44448125,122.18868,-97.267654)">
+     transform="matrix(-0.33337615,0,0,0.27782562,121.71925,-48.477871)">
     <path
        id="path2849"
        d="m 7.8839169,288.57704 -7.37827179,2.98947 c -0.81842473,0.382 -0.54561648,1.58243 0.32740362,1.58243 H 3.8342806 v 3.00122 c 0,0.87302 1.2004244,1.146 1.5824243,0.3274 L 8.406169,289.0993 c 0.130543,-0.31343 -0.2089171,-0.65288 -0.5222521,-0.52226 z"
@@ -2669,7 +2669,7 @@
        sodipodi:role="line"
        id="tspan2887">Combo:hover</tspan></text>
   <g
-     transform="matrix(-0.44448125,0,0,0.44448125,158.28691,-97.267654)"
+     transform="matrix(-0.30004637,0,0,0.30004637,157.67665,-54.983176)"
      id="g2893"
      inkscape:label="Layer 1">
     <path
@@ -2780,21 +2780,13 @@
      style="fill:#d588f1;fill-opacity:1;stroke-width:0.01158976"
      inkscape:connector-curvature="0" />
   <rect
-     style="opacity:1;fill:#f96969;fill-opacity:1;stroke-width:0.26458335"
+     style="opacity:1;fill:none;fill-opacity:1;stroke-width:0.79375001;stroke:#83d3f6;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      id="rect3220"
      width="4.1010385"
      height="4.1010385"
      x="91.215103"
      y="90.024483"
      ry="1.1660542" />
-  <rect
-     ry="0.71794146"
-     y="96.031128"
-     x="90.055344"
-     height="6.3021636"
-     width="27.431503"
-     id="rect3222"
-     style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.29482147" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.07415179"
@@ -2820,7 +2812,7 @@
      id="rect3230"
      style="opacity:1;fill:#8ad891;fill-opacity:1;stroke-width:0.26458335" />
   <path
-     style="fill:#333333;fill-opacity:1;stroke-width:0.0054094"
+     style="fill:#434343;fill-opacity:1;stroke-width:0.0054094"
      inkscape:connector-curvature="0"
      d="m 92.786245,100.18587 -0.900123,-0.900133 c -0.05408,-0.0541 -0.05408,-0.141755 0,-0.195836 l 0.195836,-0.195843 c 0.05408,-0.05408 0.141764,-0.05408 0.195842,0 l 0.606367,0.606359 1.298769,-1.298759 c 0.05408,-0.05408 0.141764,-0.05408 0.195841,0 l 0.195837,0.195839 c 0.05408,0.05408 0.05408,0.141758 0,0.195839 l -1.592527,1.592544 c -0.05408,0.0541 -0.141764,0.0541 -0.195842,-1e-5 z"
      id="path841" />
@@ -2892,5 +2884,34 @@
      id="path3259"
      d="m 92.786245,114.45138 -0.900123,-0.90013 c -0.05408,-0.0541 -0.05408,-0.14176 0,-0.19584 l 0.195836,-0.19584 c 0.05408,-0.0541 0.141764,-0.0541 0.195842,0 l 0.606367,0.60636 1.298769,-1.29876 c 0.05408,-0.0541 0.141764,-0.0541 0.195841,0 l 0.195837,0.19584 c 0.05408,0.0541 0.05408,0.14176 0,0.19584 l -1.592527,1.59254 c -0.05408,0.0541 -0.141764,0.0541 -0.195842,-1e-5 z"
      inkscape:connector-curvature="0"
-     style="fill:#333333;fill-opacity:1;stroke-width:0.0054094" />
+     style="fill:#6d6d6d;fill-opacity:1;stroke-width:0.0054094" />
+  <text
+     id="text1864"
+     y="123.09495"
+     x="102.77229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#9d9d9d;fill-opacity:1;stroke:none;stroke-width:0.07415179;"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.96608496px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#9d9d9d;fill-opacity:1;stroke-width:0.07415179;"
+       y="123.09495"
+       x="102.77229"
+       sodipodi:role="line"
+       id="tspan1862">Checkbox</tspan></text>
+  <path
+     id="path1866"
+     d="m 99.723928,119.67266 c -0.0595,0.006 -0.118522,0.0314 -0.167449,0.0803 l -1.031191,1.03092 h -1.182797 c -0.15368,0 -0.27808,0.1244 -0.27808,0.27808 v 1.66903 c 0,0.15356 0.1244,0.27808 0.27808,0.27808 h 1.182797 l 1.031191,1.03091 c 0.174194,0.1742 0.474761,0.0518 0.474761,-0.19667 v -3.89367 c 0,-0.15545 -0.11742,-0.26133 -0.248035,-0.27644 -0.0196,-0.002 -0.03945,-0.002 -0.05928,-5.3e-4 z m -0.750379,1.08692 h 0.313864 v 0.31359 h -0.313864 z m 1.851771,0.21279 c -0.0889,0.008 -0.17257,0.0585 -0.21908,0.14259 -0.0741,0.13456 -0.025,0.30377 0.10954,0.37806 0.14963,0.0822 0.24257,0.23692 0.24257,0.40346 0,0.16666 -0.0928,0.32129 -0.24229,0.40346 -0.13456,0.0743 -0.1836,0.24323 -0.10954,0.37779 0.0745,0.13513 0.2438,0.18313 0.37778,0.10954 0.32718,-0.18022 0.53048,-0.52158 0.53048,-0.89106 0,-0.36948 -0.20318,-0.71068 -0.53048,-0.89079 -0.0503,-0.0275 -0.10563,-0.0379 -0.15898,-0.0331 z m -2.4795,0.1008 h 0.313864 v 0.31359 H 98.34582 Z m -0.628002,0.31359 h 0.314137 v 0.628 h 0.313865 v 0.62746 h -0.941594 v -0.9416 h 0.313592 z m 0.942139,0.31031 h 0.313592 v 0.31387 h -0.313592 z m 0.627183,0.31387 h 0.313591 v 0.31386 H 99.28714 Z"
+     style="fill:#9d9d9d;fill-opacity:1;stroke-width:0.01158976"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#9d9d9d;fill-opacity:1;stroke-width:0.26458335"
+     id="rect1868"
+     width="4.1010385"
+     height="4.1010385"
+     x="91.215103"
+     y="119.846"
+     ry="1.1660542" />
+  <path
+     id="path1870"
+     d="m 92.786245,123.01069 -0.900123,-0.90013 c -0.05408,-0.0541 -0.05408,-0.14176 0,-0.19584 l 0.195836,-0.19584 c 0.05408,-0.0541 0.141764,-0.0541 0.195842,0 l 0.606367,0.60636 1.298769,-1.29876 c 0.05408,-0.0541 0.141764,-0.0541 0.195841,0 l 0.195837,0.19584 c 0.05408,0.0541 0.05408,0.14175 0,0.19583 l -1.592527,1.59255 c -0.05408,0.0541 -0.141764,0.0541 -0.195842,-1e-5 z"
+     inkscape:connector-curvature="0"
+     style="fill:#434343;fill-opacity:1;stroke-width:0.0054094" />
 </svg>
