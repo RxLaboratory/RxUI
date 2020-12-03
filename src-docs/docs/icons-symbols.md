@@ -45,7 +45,6 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
@@ -55,6 +54,7 @@
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
+| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
@@ -112,9 +112,9 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
 | ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
-| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
 
 ### Image
