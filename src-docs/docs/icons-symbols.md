@@ -14,6 +14,7 @@
 | ![](icons/2_Symbols/Animation/interpolation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animation/interpolation_sd.svg){: style="height:28px;width:28px"} | Interpolation |
 | ![](icons/2_Symbols/Animation/keyframe_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animation/keyframe_sd.svg){: style="height:28px;width:28px"} | Keyframe |
 | ![](icons/2_Symbols/Animation/onionskin_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animation/onionskin_sd.svg){: style="height:28px;width:28px"} | Onionskin |
+| ![](icons/2_Symbols/Animation/stop-motion_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animation/stop-motion_sd.svg){: style="height:28px;width:28px"} | Stop Motion |
 
 ### Brands
 
