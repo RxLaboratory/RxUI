@@ -55,6 +55,7 @@
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
+| ![](icons/2_Symbols/General/grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/grid_sd.svg){: style="height:28px;width:28px"} | Grid |
 | ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |

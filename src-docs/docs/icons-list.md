@@ -41,6 +41,12 @@
 | ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:28px;width:28px"} | Reload Code File 2 |
 | ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:28px;width:28px"} | Reload Code File |
 
+### Communication
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:28px;width:28px"} | Sms |
+
 ### File
 
 | Icon | Name |
@@ -63,6 +69,8 @@
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/General/add-property_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/add-property_sd.svg){: style="height:28px;width:28px"} | Add Property |
+| ![](icons/3_Icons/General/contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/contacts_sd.svg){: style="height:28px;width:28px"} | Contacts |
+| ![](icons/3_Icons/General/load-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/load-contacts_sd.svg){: style="height:28px;width:28px"} | Load Contacts |
 | ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
 
 ### Image
@@ -131,6 +139,11 @@
 | ![](icons/3_Icons/Code/reload-code-file-2_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/reload-code-file-2_bd.svg){: style="height:48px;width:48px"} | Reload Code File 2 |
 | ![](icons/3_Icons/Code/reload-code-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/reload-code-file_bd.svg){: style="height:48px;width:48px"} | Reload Code File |
 
+### Communication
+
+| Icon | Name |
+|---|---|
+
 ### File
 
 | Icon | Name |
@@ -148,6 +161,7 @@
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/General/add-property_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/add-property_bd.svg){: style="height:48px;width:48px"} | Add Property |
+| ![](icons/3_Icons/General/load-contacts_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/load-contacts_bd.svg){: style="height:48px;width:48px"} | Load Contacts |
 | ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:48px;width:48px"} | Select Connection |
 
 ### Image
