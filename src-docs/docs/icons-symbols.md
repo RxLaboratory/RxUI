@@ -77,12 +77,15 @@
 | ![](icons/2_Symbols/Image/image_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/image_sd.svg){: style="height:28px;width:28px"} | Image |
 | ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:28px;width:28px"} | Layers |
 | ![](icons/2_Symbols/Image/layer_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/layer_sd.svg){: style="height:28px;width:28px"} | Layer |
+| ![](icons/2_Symbols/Image/pixel-bit-depth_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/pixel-bit-depth_sd.svg){: style="height:28px;width:28px"} | Pixel Bit Depth |
 | ![](icons/2_Symbols/Image/pixels_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/pixels_sd.svg){: style="height:28px;width:28px"} | Pixels |
 
 ### Media
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Media/audio-bit-depth_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio-bit-depth_sd.svg){: style="height:28px;width:28px"} | Audio Bit Depth |
+| ![](icons/2_Symbols/Media/audio-sampling_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio-sampling_sd.svg){: style="height:28px;width:28px"} | Audio Sampling |
 | ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:28px;width:28px"} | Audio |
 | ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:28px;width:28px"} | Camera |
 | ![](icons/2_Symbols/Media/film_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/film_sd.svg){: style="height:28px;width:28px"} | Film |
@@ -133,5 +136,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Media/audio-bit-depth_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/audio-bit-depth_bd.svg){: style="height:48px;width:48px"} | Audio Bit Depth |
+| ![](icons/2_Symbols/Media/audio-sampling_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/audio-sampling_bd.svg){: style="height:48px;width:48px"} | Audio Sampling |
 | ![](icons/2_Symbols/Media/play_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/play_bd.svg){: style="height:48px;width:48px"} | Play |
 | ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:48px;width:48px"} | Stop |
