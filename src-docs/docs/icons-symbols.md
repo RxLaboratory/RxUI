@@ -23,6 +23,7 @@
 | ![](icons/2_Symbols/Brands/after-effects_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/after-effects_sd.svg){: style="height:28px;width:28px"} | After Effects |
 | ![](icons/2_Symbols/Brands/audition_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/audition_sd.svg){: style="height:28px;width:28px"} | Audition |
 | ![](icons/2_Symbols/Brands/blender_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/blender_sd.svg){: style="height:28px;width:28px"} | Blender |
+| ![](icons/2_Symbols/Brands/ffmpeg_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/ffmpeg_sd.svg){: style="height:28px;width:28px"} | Ffmpeg |
 | ![](icons/2_Symbols/Brands/illustrator_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/illustrator_sd.svg){: style="height:28px;width:28px"} | Illustrator |
 | ![](icons/2_Symbols/Brands/krita_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/krita_sd.svg){: style="height:28px;width:28px"} | Krita |
 | ![](icons/2_Symbols/Brands/oca_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Brands/oca_sd.svg){: style="height:28px;width:28px"} | Oca |
@@ -36,6 +37,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Code/bash-terminal_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/bash-terminal_sd.svg){: style="height:28px;width:28px"} | Bash Terminal |
 | ![](icons/2_Symbols/Code/binary_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/binary_sd.svg){: style="height:28px;width:28px"} | Binary |
 | ![](icons/2_Symbols/Code/code2_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/code2_sd.svg){: style="height:28px;width:28px"} | Code2 |
 | ![](icons/2_Symbols/Code/code_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Code/code_sd.svg){: style="height:28px;width:28px"} | Code |
@@ -46,6 +48,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
@@ -56,7 +59,6 @@
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
 | ![](icons/2_Symbols/General/grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/grid_sd.svg){: style="height:28px;width:28px"} | Grid |
-| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
@@ -114,9 +116,9 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
 | ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
+| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
 
 ### Image
