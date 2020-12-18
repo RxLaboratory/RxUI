@@ -22,6 +22,8 @@ These colors are to be used across all *Rx Open Tools*.
 
 | Color | Name | Hex |
 | ---- | --------- | ------- |
+| ![](colors/Tints/00a2a3_dark-cyan.svg){: style="height:25px;width:25px"} | Dark Cyan | #00a2a3 |
+| ![](colors/Tints/00a2a3_light-cyan.svg){: style="height:25px;width:25px"} | Light Cyan | #00a2a3 |
 | ![](colors/Tints/10688e_dark-blue.svg){: style="height:25px;width:25px"} | Dark Blue | #10688e |
 | ![](colors/Tints/3e8b45_dark-green.svg){: style="height:25px;width:25px"} | Dark Green | #3e8b45 |
 | ![](colors/Tints/8109ad_dark-purple.svg){: style="height:25px;width:25px"} | Dark Purple | #8109ad |

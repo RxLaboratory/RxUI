@@ -87,11 +87,11 @@
 
 | Icon | Name |
 |---|---|
-| ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
 | ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-codec_sd.svg){: style="height:28px;width:28px"} | Audio Codec |
 | ![](icons/3_Icons/Media/audio-quality-sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/audio-quality-sd.svg){: style="height:28px;width:28px"} | Audio Quality Sd |
 | ![](icons/3_Icons/Media/encode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/encode_sd.svg){: style="height:28px;width:28px"} | Encode |
 | ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:28px;width:28px"} | Resize Video |
+| ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
 | ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:28px;width:28px"} | Set Codec Settings |
 | ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:28px;width:28px"} | Set Loops |
 | ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:28px;width:28px"} | Video Codec |
@@ -143,9 +143,9 @@
 
 | Icon | Name |
 |---|---|
-| ![](icons/3_Icons/File/load-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-file_bd.svg){: style="height:48px;width:48px"} | Load File |
 | ![](icons/3_Icons/File/export-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/export-file_bd.svg){: style="height:48px;width:48px"} | Export File |
 | ![](icons/3_Icons/File/import-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/import-file_bd.svg){: style="height:48px;width:48px"} | Import File |
+| ![](icons/3_Icons/File/load-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-file_bd.svg){: style="height:48px;width:48px"} | Load File |
 | ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:48px;width:48px"} | Load Text File |
 | ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:48px;width:48px"} | Render Compute Build File |
 | ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:48px;width:48px"} | Savefileas |

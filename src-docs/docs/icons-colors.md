@@ -19,6 +19,7 @@ For use on dark backgrounds
 | ![](icons/0_Colors/modification_l.svg) | #d588f1 | Modification | Modifies existing objects |
 | ![](icons/0_Colors/deletion_l.svg) | #f96969 | Deletion | Removes something |
 | ![](icons/0_Colors/settings_l.svg) | #83d3f6 | Settings | Changes further behavior |
+| ![](icons/0_Colors/connection_l.svg) | #8cffef | Connection | Connects/Sends/Receive data |
 
 ## Dark
 
@@ -31,3 +32,4 @@ For use on light backgrounds
 | ![](icons/0_Colors/modification_d.svg) | #8109ad | Modification | Modifies existing objects |
 | ![](icons/0_Colors/deletion_d.svg) | #ac1010 | Deletion | Removes something |
 | ![](icons/0_Colors/settings_d.svg) | #10688e | Settings | Changes further behavior |
+| ![](icons/0_Colors/connection_d.svg) | #00a2a3 | Connection | Connects/Sends/Receive data |
