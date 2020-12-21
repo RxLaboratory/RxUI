@@ -48,8 +48,12 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:28px;width:28px"} | Reflection Logic |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
+| ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:28px;width:28px"} | Barcode |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
+| ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:28px;width:28px"} | Calendar |
+| ![](icons/2_Symbols/General/car_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/car_sd.svg){: style="height:28px;width:28px"} | Car |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
@@ -57,16 +61,23 @@
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
+| ![](icons/2_Symbols/General/game_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/game_sd.svg){: style="height:28px;width:28px"} | Game |
 | ![](icons/2_Symbols/General/grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/grid_sd.svg){: style="height:28px;width:28px"} | Grid |
 | ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
+| ![](icons/2_Symbols/General/money_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/money_sd.svg){: style="height:28px;width:28px"} | Money |
 | ![](icons/2_Symbols/General/precision_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/precision_sd.svg){: style="height:28px;width:28px"} | Precision |
 | ![](icons/2_Symbols/General/property_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/property_sd.svg){: style="height:28px;width:28px"} | Property |
+| ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:28px;width:28px"} | Radio Transmission |
 | ![](icons/2_Symbols/General/settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/settings_sd.svg){: style="height:28px;width:28px"} | Settings |
+| ![](icons/2_Symbols/General/space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/space-ship_sd.svg){: style="height:28px;width:28px"} | Space Ship |
 | ![](icons/2_Symbols/General/text_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/text_sd.svg){: style="height:28px;width:28px"} | Text |
+| ![](icons/2_Symbols/General/touch_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/touch_sd.svg){: style="height:28px;width:28px"} | Touch |
 | ![](icons/2_Symbols/General/user_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/user_sd.svg){: style="height:28px;width:28px"} | User |
+| ![](icons/2_Symbols/General/virus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/virus_sd.svg){: style="height:28px;width:28px"} | Virus |
+| ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:28px;width:28px"} | War Canon |
 
 ### Image
 
@@ -91,10 +102,14 @@
 | ![](icons/2_Symbols/Media/film_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/film_sd.svg){: style="height:28px;width:28px"} | Film |
 | ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:28px;width:28px"} | Loop |
 | ![](icons/2_Symbols/Media/music_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/music_sd.svg){: style="height:28px;width:28px"} | Music |
-| ![](icons/2_Symbols/Media/play_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/play_sd.svg){: style="height:28px;width:28px"} | Play |
-| ![](icons/2_Symbols/Media/stop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/stop_sd.svg){: style="height:28px;width:28px"} | Stop |
 | ![](icons/2_Symbols/Media/tutorial_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/tutorial_sd.svg){: style="height:28px;width:28px"} | Tutorial |
 | ![](icons/2_Symbols/Media/video_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/video_sd.svg){: style="height:28px;width:28px"} | Video |
+
+### Transport
+
+| Symbol | Name |
+|---|---|
+| ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:28px;width:28px"} | Bus |
 
 ## Large
 
@@ -119,9 +134,10 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
 | ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
-| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
+| ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:48px;width:48px"} | Radio Transmission |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
 
 ### Image
@@ -138,5 +154,8 @@
 |---|---|
 | ![](icons/2_Symbols/Media/audio-bit-depth_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/audio-bit-depth_bd.svg){: style="height:48px;width:48px"} | Audio Bit Depth |
 | ![](icons/2_Symbols/Media/audio-sampling_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/audio-sampling_bd.svg){: style="height:48px;width:48px"} | Audio Sampling |
-| ![](icons/2_Symbols/Media/play_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/play_bd.svg){: style="height:48px;width:48px"} | Play |
-| ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Media/stop_bd.svg){: style="height:48px;width:48px"} | Stop |
+
+### Transport
+
+| Symbol | Name |
+|---|---|

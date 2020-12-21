@@ -1,0 +1,20 @@
+GIMP Palette
+Name: RxUI Icons
+Columns: 2
+#
+ 35  35  35	Untitled
+ 62 139  69	Creation (dark)
+132 179  48	Display (dark)
+129   9 173	Modification (dark)
+132  44  83	End (dark)
+172  16  16	Deletion (dark)
+ 16 104 142	Settings (dark)
+  0 162 163	Connection (dark)
+227 227 227	Neutral (light)
+138 216 145	Creation (light)
+216 255 140	Display (light)
+213 136 241	Modification (light)
+241 136 186	End (light)
+249 105 105	Deletion (light)
+131 211 246	Settings (light)
+140 255 239	Connection (light)
