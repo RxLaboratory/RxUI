@@ -53,7 +53,6 @@
 | ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:28px;width:28px"} | Barcode |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
 | ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:28px;width:28px"} | Calendar |
-| ![](icons/2_Symbols/General/car_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/car_sd.svg){: style="height:28px;width:28px"} | Car |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
@@ -72,7 +71,6 @@
 | ![](icons/2_Symbols/General/property_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/property_sd.svg){: style="height:28px;width:28px"} | Property |
 | ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:28px;width:28px"} | Radio Transmission |
 | ![](icons/2_Symbols/General/settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/settings_sd.svg){: style="height:28px;width:28px"} | Settings |
-| ![](icons/2_Symbols/General/space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/space-ship_sd.svg){: style="height:28px;width:28px"} | Space Ship |
 | ![](icons/2_Symbols/General/text_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/text_sd.svg){: style="height:28px;width:28px"} | Text |
 | ![](icons/2_Symbols/General/touch_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/touch_sd.svg){: style="height:28px;width:28px"} | Touch |
 | ![](icons/2_Symbols/General/user_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/user_sd.svg){: style="height:28px;width:28px"} | User |
@@ -110,6 +108,8 @@
 | Symbol | Name |
 |---|---|
 | ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:28px;width:28px"} | Bus |
+| ![](icons/2_Symbols/Transport/car_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/car_sd.svg){: style="height:28px;width:28px"} | Car |
+| ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:28px;width:28px"} | Space Ship |
 
 ## Large
 

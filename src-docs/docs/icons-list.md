@@ -20,7 +20,6 @@
 | ![](icons/3_Icons/Application/bug-report_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/bug-report_sd.svg){: style="height:28px;width:28px"} | Bug Report |
 | ![](icons/3_Icons/Application/edit-calendar_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/edit-calendar_sd.svg){: style="height:28px;width:28px"} | Edit Calendar |
 | ![](icons/3_Icons/Application/feature-request_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/feature-request_sd.svg){: style="height:28px;width:28px"} | Feature Request |
-| ![](icons/3_Icons/Application/forum_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/forum_sd.svg){: style="height:28px;width:28px"} | Forum |
 | ![](icons/3_Icons/Application/go-to-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/go-to-settings_sd.svg){: style="height:28px;width:28px"} | Go To Settings |
 | ![](icons/3_Icons/Application/login_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/login_sd.svg){: style="height:28px;width:28px"} | Login |
 | ![](icons/3_Icons/Application/logout_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/logout_sd.svg){: style="height:28px;width:28px"} | Logout |
@@ -47,7 +46,12 @@
 | ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:28px;width:28px"} | Ad |
 | ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:28px;width:28px"} | Block Ad |
 | ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:28px;width:28px"} | Connect Chat |
+| ![](icons/3_Icons/Communication/contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/contacts_sd.svg){: style="height:28px;width:28px"} | Contacts |
+| ![](icons/3_Icons/Communication/coonect-forum_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/coonect-forum_sd.svg){: style="height:28px;width:28px"} | Coonect Forum |
+| ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:28px;width:28px"} | Edit Contacts |
+| ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:28px;width:28px"} | Load Contacts |
 | ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:28px;width:28px"} | Play Radio Podcast |
+| ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:28px;width:28px"} | Send Receive Sms |
 | ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:28px;width:28px"} | Sms |
 
 ### File
@@ -84,8 +88,6 @@
 |---|---|
 | ![](icons/3_Icons/General/add-property_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/add-property_sd.svg){: style="height:28px;width:28px"} | Add Property |
 | ![](icons/3_Icons/General/check-money_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/check-money_sd.svg){: style="height:28px;width:28px"} | Check Money |
-| ![](icons/3_Icons/General/contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/contacts_sd.svg){: style="height:28px;width:28px"} | Contacts |
-| ![](icons/3_Icons/General/load-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/load-contacts_sd.svg){: style="height:28px;width:28px"} | Load Contacts |
 | ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:28px;width:28px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
 
@@ -149,6 +151,7 @@
 
 | Icon | Name |
 |---|---|
+| ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:48px;width:48px"} | Load Contacts |
 | ![](icons/3_Icons/Communication/play-radio-podcast_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/play-radio-podcast_bd.svg){: style="height:48px;width:48px"} | Play Radio Podcast |
 
 ### File
@@ -180,7 +183,6 @@
 |---|---|
 | ![](icons/3_Icons/General/add-property_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/add-property_bd.svg){: style="height:48px;width:48px"} | Add Property |
 | ![](icons/3_Icons/General/check-money_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/check-money_bd.svg){: style="height:48px;width:48px"} | Check Money |
-| ![](icons/3_Icons/General/load-contacts_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/load-contacts_bd.svg){: style="height:48px;width:48px"} | Load Contacts |
 | ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:48px;width:48px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:48px;width:48px"} | Select Connection |
 
