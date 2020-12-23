@@ -46,13 +46,20 @@
 | ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:28px;width:28px"} | Ad |
 | ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:28px;width:28px"} | Block Ad |
 | ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:28px;width:28px"} | Connect Chat |
+| ![](icons/3_Icons/Communication/connect-forum_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-forum_sd.svg){: style="height:28px;width:28px"} | Connect Forum |
+| ![](icons/3_Icons/Communication/connect-internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-internet_sd.svg){: style="height:28px;width:28px"} | Connect Internet |
+| ![](icons/3_Icons/Communication/connect-mail_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-mail_sd.svg){: style="height:28px;width:28px"} | Connect Mail |
+| ![](icons/3_Icons/Communication/connect-social-network_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-social-network_sd.svg){: style="height:28px;width:28px"} | Connect Social Network |
 | ![](icons/3_Icons/Communication/contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/contacts_sd.svg){: style="height:28px;width:28px"} | Contacts |
-| ![](icons/3_Icons/Communication/coonect-forum_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/coonect-forum_sd.svg){: style="height:28px;width:28px"} | Coonect Forum |
 | ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:28px;width:28px"} | Edit Contacts |
+| ![](icons/3_Icons/Communication/file-sync_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/file-sync_sd.svg){: style="height:28px;width:28px"} | File Sync |
 | ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:28px;width:28px"} | Load Contacts |
+| ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:28px;width:28px"} | Phone Call |
+| ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:28px;width:28px"} | Phone Settings |
 | ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:28px;width:28px"} | Play Radio Podcast |
 | ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:28px;width:28px"} | Send Receive Sms |
 | ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:28px;width:28px"} | Sms |
+| ![](icons/3_Icons/Communication/social-network_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/social-network_sd.svg){: style="height:28px;width:28px"} | Social Network |
 
 ### File
 
@@ -65,6 +72,7 @@
 | ![](icons/3_Icons/File/image-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/image-file_sd.svg){: style="height:28px;width:28px"} | Image File |
 | ![](icons/3_Icons/File/import-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/import-file_sd.svg){: style="height:28px;width:28px"} | Import File |
 | ![](icons/3_Icons/File/load-text-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/load-text-file_sd.svg){: style="height:28px;width:28px"} | Load Text File |
+| ![](icons/3_Icons/File/reload-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/reload-file_sd.svg){: style="height:28px;width:28px"} | Reload File |
 | ![](icons/3_Icons/File/render-compute-build-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/render-compute-build-file_sd.svg){: style="height:28px;width:28px"} | Render Compute Build File |
 | ![](icons/3_Icons/File/savefileas_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/savefileas_sd.svg){: style="height:28px;width:28px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/savefile_sd.svg){: style="height:28px;width:28px"} | Savefile |
@@ -77,9 +85,11 @@
 |---|---|
 | ![](icons/3_Icons/Game/play-bus_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-bus_sd.svg){: style="height:28px;width:28px"} | Play Bus |
 | ![](icons/3_Icons/Game/play-car_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-car_sd.svg){: style="height:28px;width:28px"} | Play Car |
+| ![](icons/3_Icons/Game/play-language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-language-translation_sd.svg){: style="height:28px;width:28px"} | Play Language Translation |
 | ![](icons/3_Icons/Game/play-reflection-logic_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-reflection-logic_sd.svg){: style="height:28px;width:28px"} | Play Reflection Logic |
 | ![](icons/3_Icons/Game/play-space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-space-ship_sd.svg){: style="height:28px;width:28px"} | Play Space Ship |
 | ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:28px;width:28px"} | Play Touch |
+| ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:28px;width:28px"} | Play Train |
 | ![](icons/3_Icons/Game/play-war-canon_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-war-canon_sd.svg){: style="height:28px;width:28px"} | Play War Canon |
 
 ### General
@@ -88,6 +98,8 @@
 |---|---|
 | ![](icons/3_Icons/General/add-property_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/add-property_sd.svg){: style="height:28px;width:28px"} | Add Property |
 | ![](icons/3_Icons/General/check-money_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/check-money_sd.svg){: style="height:28px;width:28px"} | Check Money |
+| ![](icons/3_Icons/General/check-news_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/check-news_sd.svg){: style="height:28px;width:28px"} | Check News |
+| ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:28px;width:28px"} | Manage Energy |
 | ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:28px;width:28px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
 
@@ -97,6 +109,8 @@
 |---|---|
 | ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:28px;width:28px"} | Color Settings |
 | ![](icons/3_Icons/Image/edit-alpha_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/edit-alpha_sd.svg){: style="height:28px;width:28px"} | Edit Alpha |
+| ![](icons/3_Icons/Image/gallery_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/gallery_sd.svg){: style="height:28px;width:28px"} | Gallery |
+| ![](icons/3_Icons/Image/image-sync-backup_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/image-sync-backup_sd.svg){: style="height:28px;width:28px"} | Image Sync Backup |
 | ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:28px;width:28px"} | Pixel Format |
 | ![](icons/3_Icons/Image/set-color-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/set-color-settings_sd.svg){: style="height:28px;width:28px"} | Set Color Settings |
 | ![](icons/3_Icons/Image/set-pixel-format_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/set-pixel-format_sd.svg){: style="height:28px;width:28px"} | Set Pixel Format |
@@ -111,10 +125,18 @@
 | ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:28px;width:28px"} | Video Framerate |
 | ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:28px;width:28px"} | Video Quality |
 | ![](icons/3_Icons/Media/encode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/encode_sd.svg){: style="height:28px;width:28px"} | Encode |
+| ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:28px;width:28px"} | Play Music |
 | ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:28px;width:28px"} | Resize Video |
 | ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
 | ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:28px;width:28px"} | Set Codec Settings |
 | ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:28px;width:28px"} | Set Loops |
+
+### Transport
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Transport/guide_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/guide_sd.svg){: style="height:28px;width:28px"} | Guide |
+| ![](icons/3_Icons/Transport/localize-gps_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/localize-gps_sd.svg){: style="height:28px;width:28px"} | Localize Gps |
 
 ## Large
 
@@ -151,7 +173,10 @@
 
 | Icon | Name |
 |---|---|
+| ![](icons/3_Icons/Communication/phone-call_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/phone-call_bd.svg){: style="height:48px;width:48px"} | Phone Call |
+| ![](icons/3_Icons/Communication/file-sync_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/file-sync_bd.svg){: style="height:48px;width:48px"} | File Sync |
 | ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:48px;width:48px"} | Load Contacts |
+| ![](icons/3_Icons/Communication/phone-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/phone-settings_bd.svg){: style="height:48px;width:48px"} | Phone Settings |
 | ![](icons/3_Icons/Communication/play-radio-podcast_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/play-radio-podcast_bd.svg){: style="height:48px;width:48px"} | Play Radio Podcast |
 
 ### File
@@ -162,6 +187,7 @@
 | ![](icons/3_Icons/File/import-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/import-file_bd.svg){: style="height:48px;width:48px"} | Import File |
 | ![](icons/3_Icons/File/load-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-file_bd.svg){: style="height:48px;width:48px"} | Load File |
 | ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:48px;width:48px"} | Load Text File |
+| ![](icons/3_Icons/File/reload-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/reload-file_bd.svg){: style="height:48px;width:48px"} | Reload File |
 | ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:48px;width:48px"} | Render Compute Build File |
 | ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:48px;width:48px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefile_bd.svg){: style="height:48px;width:48px"} | Savefile |
@@ -172,9 +198,11 @@
 |---|---|
 | ![](icons/3_Icons/Game/play-bus_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-bus_bd.svg){: style="height:48px;width:48px"} | Play Bus |
 | ![](icons/3_Icons/Game/play-car_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-car_bd.svg){: style="height:48px;width:48px"} | Play Car |
+| ![](icons/3_Icons/Game/play-language-translation_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-language-translation_bd.svg){: style="height:48px;width:48px"} | Play Language Translation |
 | ![](icons/3_Icons/Game/play-reflection-logic_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-reflection-logic_bd.svg){: style="height:48px;width:48px"} | Play Reflection Logic |
 | ![](icons/3_Icons/Game/play-space-ship_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-space-ship_bd.svg){: style="height:48px;width:48px"} | Play Space Ship |
 | ![](icons/3_Icons/Game/play-touch_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-touch_bd.svg){: style="height:48px;width:48px"} | Play Touch |
+| ![](icons/3_Icons/Game/play-train_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-train_bd.svg){: style="height:48px;width:48px"} | Play Train |
 | ![](icons/3_Icons/Game/play-war-canon_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-war-canon_bd.svg){: style="height:48px;width:48px"} | Play War Canon |
 
 ### General
@@ -192,6 +220,7 @@
 |---|---|
 | ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:48px;width:48px"} | Color Settings |
 | ![](icons/3_Icons/Image/edit-alpha_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/edit-alpha_bd.svg){: style="height:48px;width:48px"} | Edit Alpha |
+| ![](icons/3_Icons/Image/image-sync-backup_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/image-sync-backup_bd.svg){: style="height:48px;width:48px"} | Image Sync Backup |
 | ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:48px;width:48px"} | Pixel Format |
 | ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:48px;width:48px"} | Set Color Settings |
 | ![](icons/3_Icons/Image/set-pixel-format_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/set-pixel-format_bd.svg){: style="height:48px;width:48px"} | Set Pixel Format |
@@ -206,5 +235,12 @@
 | ![](icons/3_Icons/Media/set-video-quality_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-video-quality_bd.svg){: style="height:48px;width:48px"} | Set Video Quality |
 | ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/video-codec_bd.svg){: style="height:48px;width:48px"} | Video Codec |
 | ![](icons/3_Icons/Media/encode_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/encode_bd.svg){: style="height:48px;width:48px"} | Encode |
+| ![](icons/3_Icons/Media/play-music_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/play-music_bd.svg){: style="height:48px;width:48px"} | Play Music |
 | ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:48px;width:48px"} | Resize Video |
 | ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:48px;width:48px"} | Set Codec Settings |
+
+### Transport
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Transport/localize-gps_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Transport/localize-gps_bd.svg){: style="height:48px;width:48px"} | Localize Gps |

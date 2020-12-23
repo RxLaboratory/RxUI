@@ -20,6 +20,7 @@ These versions of the badges are made to be used with the small version of icons
 | ![](icons/1_Badges/deselect_sd.svg){: style="height:15px;width:15px"} | Deselect | 
 | ![](icons/1_Badges/download_sd.svg){: style="height:15px;width:15px"} | Download | 
 | ![](icons/1_Badges/edit_sd.svg){: style="height:15px;width:15px"} | Edit | 
+| ![](icons/1_Badges/locate_sd.svg){: style="height:15px;width:15px"} | Locate | 
 | ![](icons/1_Badges/lock_sd.svg){: style="height:15px;width:15px"} | Lock | 
 | ![](icons/1_Badges/move-down_sd.svg){: style="height:15px;width:15px"} | Move Down | 
 | ![](icons/1_Badges/move-horizontal_sd.svg){: style="height:15px;width:15px"} | Move Horizontal | 
@@ -69,6 +70,7 @@ These versions of the badges are made to be used with the large version of icons
 | ![](icons/1_Badges/download_bd.svg){: style="height:25px;width:25px"} | Download | 
 | ![](icons/1_Badges/edit_bd.svg){: style="height:25px;width:25px"} | Edit | 
 | ![](icons/1_Badges/export_bd.svg){: style="height:25px;width:25px"} | Export | 
+| ![](icons/1_Badges/locate_bd.svg){: style="height:25px;width:25px"} | Locate | 
 | ![](icons/1_Badges/lock_bd.svg){: style="height:25px;width:25px"} | Lock | 
 | ![](icons/1_Badges/move-down_bd.svg){: style="height:25px;width:25px"} | Move Down | 
 | ![](icons/1_Badges/move-horizontal_bd.svg){: style="height:25px;width:25px"} | Move Horizontal | 

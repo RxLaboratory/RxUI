@@ -57,6 +57,7 @@
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
 | ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:28px;width:28px"} | Documentation |
+| ![](icons/2_Symbols/General/energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/energy_sd.svg){: style="height:28px;width:28px"} | Energy |
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
 | ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
@@ -65,8 +66,12 @@
 | ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
+| ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:28px;width:28px"} | Language Translation |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
+| ![](icons/2_Symbols/General/mail_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/mail_sd.svg){: style="height:28px;width:28px"} | Mail |
 | ![](icons/2_Symbols/General/money_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/money_sd.svg){: style="height:28px;width:28px"} | Money |
+| ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:28px;width:28px"} | News Newspaper |
+| ![](icons/2_Symbols/General/phone_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/phone_sd.svg){: style="height:28px;width:28px"} | Phone |
 | ![](icons/2_Symbols/General/precision_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/precision_sd.svg){: style="height:28px;width:28px"} | Precision |
 | ![](icons/2_Symbols/General/property_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/property_sd.svg){: style="height:28px;width:28px"} | Property |
 | ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/radio-transmission_sd.svg){: style="height:28px;width:28px"} | Radio Transmission |
@@ -109,7 +114,12 @@
 |---|---|
 | ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/bus_sd.svg){: style="height:28px;width:28px"} | Bus |
 | ![](icons/2_Symbols/Transport/car_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/car_sd.svg){: style="height:28px;width:28px"} | Car |
+| ![](icons/2_Symbols/Transport/directions_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/directions_sd.svg){: style="height:28px;width:28px"} | Directions |
+| ![](icons/2_Symbols/Transport/map_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/map_sd.svg){: style="height:28px;width:28px"} | Map |
+| ![](icons/2_Symbols/Transport/plane_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/plane_sd.svg){: style="height:28px;width:28px"} | Plane |
 | ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:28px;width:28px"} | Space Ship |
+| ![](icons/2_Symbols/Transport/subway_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/subway_sd.svg){: style="height:28px;width:28px"} | Subway |
+| ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:28px;width:28px"} | Train |
 
 ## Large
 
@@ -159,3 +169,4 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Transport/train_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Transport/train_bd.svg){: style="height:48px;width:48px"} | Train |
