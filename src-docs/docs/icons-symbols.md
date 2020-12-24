@@ -5,6 +5,14 @@
 
 ## Standard
 
+### Animals
+
+| Symbol | Name |
+|---|---|
+| ![](icons/2_Symbols/Animals/snake-2_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animals/snake-2_sd.svg){: style="height:28px;width:28px"} | Snake 2 |
+| ![](icons/2_Symbols/Animals/snake-cobra_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animals/snake-cobra_sd.svg){: style="height:28px;width:28px"} | Snake Cobra |
+| ![](icons/2_Symbols/Animals/snake_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Animals/snake_sd.svg){: style="height:28px;width:28px"} | Snake |
+
 ### Animation
 
 | Symbol | Name |
@@ -48,7 +56,6 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:28px;width:28px"} | Reflection Logic |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:28px;width:28px"} | Barcode |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
@@ -57,13 +64,6 @@
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
 | ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:28px;width:28px"} | Documentation |
-| ![](icons/2_Symbols/General/energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/energy_sd.svg){: style="height:28px;width:28px"} | Energy |
-| ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
-| ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
-| ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
-| ![](icons/2_Symbols/General/game_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/game_sd.svg){: style="height:28px;width:28px"} | Game |
-| ![](icons/2_Symbols/General/grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/grid_sd.svg){: style="height:28px;width:28px"} | Grid |
-| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
 | ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:28px;width:28px"} | Language Translation |
@@ -81,6 +81,15 @@
 | ![](icons/2_Symbols/General/user_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/user_sd.svg){: style="height:28px;width:28px"} | User |
 | ![](icons/2_Symbols/General/virus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/virus_sd.svg){: style="height:28px;width:28px"} | Virus |
 | ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:28px;width:28px"} | War Canon |
+| ![](icons/2_Symbols/General/energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/energy_sd.svg){: style="height:28px;width:28px"} | Energy |
+| ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
+| ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
+| ![](icons/2_Symbols/General/folder_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/folder_sd.svg){: style="height:28px;width:28px"} | Folder |
+| ![](icons/2_Symbols/General/game-cards_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/game-cards_sd.svg){: style="height:28px;width:28px"} | Game Cards |
+| ![](icons/2_Symbols/General/game_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/game_sd.svg){: style="height:28px;width:28px"} | Game |
+| ![](icons/2_Symbols/General/grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/grid_sd.svg){: style="height:28px;width:28px"} | Grid |
+| ![](icons/2_Symbols/General/group_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/group_sd.svg){: style="height:28px;width:28px"} | Group |
+| ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/reflection-logic_sd.svg){: style="height:28px;width:28px"} | Reflection Logic |
 
 ### Image
 
@@ -102,6 +111,7 @@
 | ![](icons/2_Symbols/Media/audio-sampling_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio-sampling_sd.svg){: style="height:28px;width:28px"} | Audio Sampling |
 | ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/audio_sd.svg){: style="height:28px;width:28px"} | Audio |
 | ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/camera_sd.svg){: style="height:28px;width:28px"} | Camera |
+| ![](icons/2_Symbols/Media/cinema-movie_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/cinema-movie_sd.svg){: style="height:28px;width:28px"} | Cinema Movie |
 | ![](icons/2_Symbols/Media/film_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/film_sd.svg){: style="height:28px;width:28px"} | Film |
 | ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/loop_sd.svg){: style="height:28px;width:28px"} | Loop |
 | ![](icons/2_Symbols/Media/music_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Media/music_sd.svg){: style="height:28px;width:28px"} | Music |
@@ -122,6 +132,11 @@
 | ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:28px;width:28px"} | Train |
 
 ## Large
+
+### Animals
+
+| Symbol | Name |
+|---|---|
 
 ### Animation
 
@@ -144,11 +159,12 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
-| ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
 | ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:48px;width:48px"} | Radio Transmission |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
+| ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
+| ![](icons/2_Symbols/General/game-cards_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/game-cards_bd.svg){: style="height:48px;width:48px"} | Game Cards |
+| ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
 
 ### Image
 

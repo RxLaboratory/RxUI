@@ -85,8 +85,10 @@
 |---|---|
 | ![](icons/3_Icons/Game/play-bus_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-bus_sd.svg){: style="height:28px;width:28px"} | Play Bus |
 | ![](icons/3_Icons/Game/play-car_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-car_sd.svg){: style="height:28px;width:28px"} | Play Car |
+| ![](icons/3_Icons/Game/play-game-cards_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-game-cards_sd.svg){: style="height:28px;width:28px"} | Play Game Cards |
 | ![](icons/3_Icons/Game/play-language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-language-translation_sd.svg){: style="height:28px;width:28px"} | Play Language Translation |
 | ![](icons/3_Icons/Game/play-reflection-logic_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-reflection-logic_sd.svg){: style="height:28px;width:28px"} | Play Reflection Logic |
+| ![](icons/3_Icons/Game/play-snake-2_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-snake-2_sd.svg){: style="height:28px;width:28px"} | Play Snake 2 |
 | ![](icons/3_Icons/Game/play-space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-space-ship_sd.svg){: style="height:28px;width:28px"} | Play Space Ship |
 | ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:28px;width:28px"} | Play Touch |
 | ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:28px;width:28px"} | Play Train |
@@ -125,6 +127,8 @@
 | ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:28px;width:28px"} | Video Framerate |
 | ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:28px;width:28px"} | Video Quality |
 | ![](icons/3_Icons/Media/encode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/encode_sd.svg){: style="height:28px;width:28px"} | Encode |
+| ![](icons/3_Icons/Media/movie-documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/movie-documentation_sd.svg){: style="height:28px;width:28px"} | Movie Documentation |
+| ![](icons/3_Icons/Media/online-movie-documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/online-movie-documentation_sd.svg){: style="height:28px;width:28px"} | Online Movie Documentation |
 | ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:28px;width:28px"} | Play Music |
 | ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:28px;width:28px"} | Resize Video |
 | ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
@@ -200,6 +204,7 @@
 | ![](icons/3_Icons/Game/play-car_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-car_bd.svg){: style="height:48px;width:48px"} | Play Car |
 | ![](icons/3_Icons/Game/play-language-translation_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-language-translation_bd.svg){: style="height:48px;width:48px"} | Play Language Translation |
 | ![](icons/3_Icons/Game/play-reflection-logic_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-reflection-logic_bd.svg){: style="height:48px;width:48px"} | Play Reflection Logic |
+| ![](icons/3_Icons/Game/play-snake-2_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-snake-2_bd.svg){: style="height:48px;width:48px"} | Play Snake 2 |
 | ![](icons/3_Icons/Game/play-space-ship_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-space-ship_bd.svg){: style="height:48px;width:48px"} | Play Space Ship |
 | ![](icons/3_Icons/Game/play-touch_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-touch_bd.svg){: style="height:48px;width:48px"} | Play Touch |
 | ![](icons/3_Icons/Game/play-train_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Game/play-train_bd.svg){: style="height:48px;width:48px"} | Play Train |
