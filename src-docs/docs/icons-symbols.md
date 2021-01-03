@@ -59,10 +59,13 @@
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:28px;width:28px"} | Barcode |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
+| ![](icons/2_Symbols/General/calculator_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/calculator_sd.svg){: style="height:28px;width:28px"} | Calculator |
 | ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:28px;width:28px"} | Calendar |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
+| ![](icons/2_Symbols/General/chipset_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chipset_sd.svg){: style="height:28px;width:28px"} | Chipset |
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
+| ![](icons/2_Symbols/General/counter_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/counter_sd.svg){: style="height:28px;width:28px"} | Counter |
 | ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:28px;width:28px"} | Documentation |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
@@ -81,6 +84,7 @@
 | ![](icons/2_Symbols/General/user_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/user_sd.svg){: style="height:28px;width:28px"} | User |
 | ![](icons/2_Symbols/General/virus_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/virus_sd.svg){: style="height:28px;width:28px"} | Virus |
 | ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/war-canon_sd.svg){: style="height:28px;width:28px"} | War Canon |
+| ![](icons/2_Symbols/General/weather_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/weather_sd.svg){: style="height:28px;width:28px"} | Weather |
 | ![](icons/2_Symbols/General/energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/energy_sd.svg){: style="height:28px;width:28px"} | Energy |
 | ![](icons/2_Symbols/General/feature_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/feature_sd.svg){: style="height:28px;width:28px"} | Feature |
 | ![](icons/2_Symbols/General/file_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/file_sd.svg){: style="height:28px;width:28px"} | File |
@@ -127,9 +131,12 @@
 | ![](icons/2_Symbols/Transport/directions_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/directions_sd.svg){: style="height:28px;width:28px"} | Directions |
 | ![](icons/2_Symbols/Transport/map_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/map_sd.svg){: style="height:28px;width:28px"} | Map |
 | ![](icons/2_Symbols/Transport/plane_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/plane_sd.svg){: style="height:28px;width:28px"} | Plane |
+| ![](icons/2_Symbols/Transport/running_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/running_sd.svg){: style="height:28px;width:28px"} | Running |
 | ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/space-ship_sd.svg){: style="height:28px;width:28px"} | Space Ship |
+| ![](icons/2_Symbols/Transport/speed_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/speed_sd.svg){: style="height:28px;width:28px"} | Speed |
 | ![](icons/2_Symbols/Transport/subway_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/subway_sd.svg){: style="height:28px;width:28px"} | Subway |
 | ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/train_sd.svg){: style="height:28px;width:28px"} | Train |
+| ![](icons/2_Symbols/Transport/walking_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Transport/walking_sd.svg){: style="height:28px;width:28px"} | Walking |
 
 ## Large
 
@@ -160,8 +167,10 @@
 | Symbol | Name |
 |---|---|
 | ![](icons/2_Symbols/General/connections_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/connections_bd.svg){: style="height:48px;width:48px"} | Connections |
+| ![](icons/2_Symbols/General/counter_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/counter_bd.svg){: style="height:48px;width:48px"} | Counter |
 | ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/radio-transmission_bd.svg){: style="height:48px;width:48px"} | Radio Transmission |
 | ![](icons/2_Symbols/General/settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/settings_bd.svg){: style="height:48px;width:48px"} | Settings |
+| ![](icons/2_Symbols/General/weather_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/weather_bd.svg){: style="height:48px;width:48px"} | Weather |
 | ![](icons/2_Symbols/General/folder_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/folder_bd.svg){: style="height:48px;width:48px"} | Folder |
 | ![](icons/2_Symbols/General/game-cards_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/game-cards_bd.svg){: style="height:48px;width:48px"} | Game Cards |
 | ![](icons/2_Symbols/General/help_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/General/help_bd.svg){: style="height:48px;width:48px"} | Help |
@@ -185,4 +194,5 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/Transport/measure-speed_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Transport/measure-speed_bd.svg){: style="height:48px;width:48px"} | Measure Speed |
 | ![](icons/2_Symbols/Transport/train_bd.svg){: style="height:32px;width:32px"} - ![](icons/2_Symbols/Transport/train_bd.svg){: style="height:48px;width:48px"} | Train |

@@ -38,11 +38,14 @@
 | ![](icons/3_Icons/Code/load-code-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/load-code-file_sd.svg){: style="height:28px;width:28px"} | Load Code File |
 | ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:28px;width:28px"} | Reload Code File 2 |
 | ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:28px;width:28px"} | Reload Code File |
+| ![](icons/3_Icons/Code/versionning-git-fetch-reload_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/versionning-git-fetch-reload_sd.svg){: style="height:28px;width:28px"} | Versionning Git Fetch Reload |
+| ![](icons/3_Icons/Code/versionning-git_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/versionning-git_sd.svg){: style="height:28px;width:28px"} | Versionning Git |
 
 ### Communication
 
 | Icon | Name |
 |---|---|
+| ![](icons/3_Icons/Communication/adjust-nfc-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/adjust-nfc-settings_sd.svg){: style="height:28px;width:28px"} | Adjust Nfc Settings |
 | ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/ad_sd.svg){: style="height:28px;width:28px"} | Ad |
 | ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/block-ad_sd.svg){: style="height:28px;width:28px"} | Block Ad |
 | ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/connect-chat_sd.svg){: style="height:28px;width:28px"} | Connect Chat |
@@ -54,6 +57,7 @@
 | ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/edit-contacts_sd.svg){: style="height:28px;width:28px"} | Edit Contacts |
 | ![](icons/3_Icons/Communication/file-sync_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/file-sync_sd.svg){: style="height:28px;width:28px"} | File Sync |
 | ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/load-contacts_sd.svg){: style="height:28px;width:28px"} | Load Contacts |
+| ![](icons/3_Icons/Communication/nfc-chipset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/nfc-chipset_sd.svg){: style="height:28px;width:28px"} | Nfc Chipset |
 | ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:28px;width:28px"} | Phone Call |
 | ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:28px;width:28px"} | Phone Settings |
 | ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:28px;width:28px"} | Play Radio Podcast |
@@ -93,6 +97,7 @@
 | ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-touch_sd.svg){: style="height:28px;width:28px"} | Play Touch |
 | ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-train_sd.svg){: style="height:28px;width:28px"} | Play Train |
 | ![](icons/3_Icons/Game/play-war-canon_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/play-war-canon_sd.svg){: style="height:28px;width:28px"} | Play War Canon |
+| ![](icons/3_Icons/Game/role-play_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Game/role-play_sd.svg){: style="height:28px;width:28px"} | Role Play |
 
 ### General
 
@@ -104,6 +109,7 @@
 | ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:28px;width:28px"} | Manage Energy |
 | ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:28px;width:28px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
+| ![](icons/3_Icons/General/weather-forecast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/weather-forecast_sd.svg){: style="height:28px;width:28px"} | Weather Forecast |
 
 ### Image
 
@@ -111,6 +117,7 @@
 |---|---|
 | ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/color-settings_sd.svg){: style="height:28px;width:28px"} | Color Settings |
 | ![](icons/3_Icons/Image/edit-alpha_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/edit-alpha_sd.svg){: style="height:28px;width:28px"} | Edit Alpha |
+| ![](icons/3_Icons/Image/edit-image_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/edit-image_sd.svg){: style="height:28px;width:28px"} | Edit Image |
 | ![](icons/3_Icons/Image/gallery_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/gallery_sd.svg){: style="height:28px;width:28px"} | Gallery |
 | ![](icons/3_Icons/Image/image-sync-backup_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/image-sync-backup_sd.svg){: style="height:28px;width:28px"} | Image Sync Backup |
 | ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Image/pixel-format_sd.svg){: style="height:28px;width:28px"} | Pixel Format |
@@ -141,6 +148,9 @@
 |---|---|
 | ![](icons/3_Icons/Transport/guide_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/guide_sd.svg){: style="height:28px;width:28px"} | Guide |
 | ![](icons/3_Icons/Transport/localize-gps_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/localize-gps_sd.svg){: style="height:28px;width:28px"} | Localize Gps |
+| ![](icons/3_Icons/Transport/measure-speed_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/measure-speed_sd.svg){: style="height:28px;width:28px"} | Measure Speed |
+| ![](icons/3_Icons/Transport/running-speed_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/running-speed_sd.svg){: style="height:28px;width:28px"} | Running Speed |
+| ![](icons/3_Icons/Transport/show-map_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Transport/show-map_sd.svg){: style="height:28px;width:28px"} | Show Map |
 
 ## Large
 
@@ -172,12 +182,14 @@
 | ![](icons/3_Icons/Code/load-code-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/load-code-file_bd.svg){: style="height:48px;width:48px"} | Load Code File |
 | ![](icons/3_Icons/Code/reload-code-file-2_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/reload-code-file-2_bd.svg){: style="height:48px;width:48px"} | Reload Code File 2 |
 | ![](icons/3_Icons/Code/reload-code-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/reload-code-file_bd.svg){: style="height:48px;width:48px"} | Reload Code File |
+| ![](icons/3_Icons/Code/versionning-git-fetch-reload_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Code/versionning-git-fetch-reload_bd.svg){: style="height:48px;width:48px"} | Versionning Git Fetch Reload |
 
 ### Communication
 
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/Communication/phone-call_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/phone-call_bd.svg){: style="height:48px;width:48px"} | Phone Call |
+| ![](icons/3_Icons/Communication/adjust-nfc-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/adjust-nfc-settings_bd.svg){: style="height:48px;width:48px"} | Adjust Nfc Settings |
 | ![](icons/3_Icons/Communication/file-sync_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/file-sync_bd.svg){: style="height:48px;width:48px"} | File Sync |
 | ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/load-contacts_bd.svg){: style="height:48px;width:48px"} | Load Contacts |
 | ![](icons/3_Icons/Communication/phone-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Communication/phone-settings_bd.svg){: style="height:48px;width:48px"} | Phone Settings |
@@ -218,6 +230,7 @@
 | ![](icons/3_Icons/General/check-money_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/check-money_bd.svg){: style="height:48px;width:48px"} | Check Money |
 | ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:48px;width:48px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:48px;width:48px"} | Select Connection |
+| ![](icons/3_Icons/General/weather-forecast_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/weather-forecast_bd.svg){: style="height:48px;width:48px"} | Weather Forecast |
 
 ### Image
 
@@ -225,6 +238,7 @@
 |---|---|
 | ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/color-settings_bd.svg){: style="height:48px;width:48px"} | Color Settings |
 | ![](icons/3_Icons/Image/edit-alpha_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/edit-alpha_bd.svg){: style="height:48px;width:48px"} | Edit Alpha |
+| ![](icons/3_Icons/Image/edit-image_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/edit-image_bd.svg){: style="height:48px;width:48px"} | Edit Image |
 | ![](icons/3_Icons/Image/image-sync-backup_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/image-sync-backup_bd.svg){: style="height:48px;width:48px"} | Image Sync Backup |
 | ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/pixel-format_bd.svg){: style="height:48px;width:48px"} | Pixel Format |
 | ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Image/set-color-settings_bd.svg){: style="height:48px;width:48px"} | Set Color Settings |
@@ -249,3 +263,4 @@
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/Transport/localize-gps_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Transport/localize-gps_bd.svg){: style="height:48px;width:48px"} | Localize Gps |
+| ![](icons/3_Icons/Transport/measure-speed_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Transport/measure-speed_bd.svg){: style="height:48px;width:48px"} | Measure Speed |
