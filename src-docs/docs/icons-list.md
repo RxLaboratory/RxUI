@@ -109,6 +109,8 @@
 | ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:28px;width:28px"} | Manage Energy |
 | ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/scan-barcode_sd.svg){: style="height:28px;width:28px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/select-connection_sd.svg){: style="height:28px;width:28px"} | Select Connection |
+| ![](icons/3_Icons/General/sort-alphabet_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/sort-alphabet_sd.svg){: style="height:28px;width:28px"} | Sort Alphabet |
+| ![](icons/3_Icons/General/sort-numeric_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/sort-numeric_sd.svg){: style="height:28px;width:28px"} | Sort Numeric |
 | ![](icons/3_Icons/General/weather-forecast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/weather-forecast_sd.svg){: style="height:28px;width:28px"} | Weather Forecast |
 
 ### Image
@@ -230,6 +232,10 @@
 | ![](icons/3_Icons/General/check-money_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/check-money_bd.svg){: style="height:48px;width:48px"} | Check Money |
 | ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/scan-barcode_bd.svg){: style="height:48px;width:48px"} | Scan Barcode |
 | ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/select-connection_bd.svg){: style="height:48px;width:48px"} | Select Connection |
+| ![](icons/3_Icons/General/sort-alphabet-reversed_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/sort-alphabet-reversed_bd.svg){: style="height:48px;width:48px"} | Sort Alphabet Reversed |
+| ![](icons/3_Icons/General/sort-alphabet_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/sort-alphabet_bd.svg){: style="height:48px;width:48px"} | Sort Alphabet |
+| ![](icons/3_Icons/General/sort-numeric-reversed_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/sort-numeric-reversed_bd.svg){: style="height:48px;width:48px"} | Sort Numeric Reversed |
+| ![](icons/3_Icons/General/sort-numeric_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/sort-numeric_bd.svg){: style="height:48px;width:48px"} | Sort Numeric |
 | ![](icons/3_Icons/General/weather-forecast_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/General/weather-forecast_bd.svg){: style="height:48px;width:48px"} | Weather Forecast |
 
 ### Image

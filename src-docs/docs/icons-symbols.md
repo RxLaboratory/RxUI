@@ -56,6 +56,7 @@
 
 | Symbol | Name |
 |---|---|
+| ![](icons/2_Symbols/General/alphabet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/alphabet_sd.svg){: style="height:28px;width:28px"} | Alphabet |
 | ![](icons/2_Symbols/General/application_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/application_sd.svg){: style="height:28px;width:28px"} | Application |
 | ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/barcode_sd.svg){: style="height:28px;width:28px"} | Barcode |
 | ![](icons/2_Symbols/General/bug_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/bug_sd.svg){: style="height:28px;width:28px"} | Bug |
@@ -74,6 +75,7 @@
 | ![](icons/2_Symbols/General/mail_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/mail_sd.svg){: style="height:28px;width:28px"} | Mail |
 | ![](icons/2_Symbols/General/money_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/money_sd.svg){: style="height:28px;width:28px"} | Money |
 | ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:28px;width:28px"} | News Newspaper |
+| ![](icons/2_Symbols/General/numbers-numeric_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/numbers-numeric_sd.svg){: style="height:28px;width:28px"} | Numbers Numeric |
 | ![](icons/2_Symbols/General/phone_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/phone_sd.svg){: style="height:28px;width:28px"} | Phone |
 | ![](icons/2_Symbols/General/precision_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/precision_sd.svg){: style="height:28px;width:28px"} | Precision |
 | ![](icons/2_Symbols/General/property_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/property_sd.svg){: style="height:28px;width:28px"} | Property |
