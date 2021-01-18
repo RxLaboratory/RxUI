@@ -75,6 +75,7 @@
 | ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:28px;width:28px"} | Language Translation |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
 | ![](icons/2_Symbols/General/mail_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/mail_sd.svg){: style="height:28px;width:28px"} | Mail |
+| ![](icons/2_Symbols/General/microchip_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/microchip_sd.svg){: style="height:28px;width:28px"} | Microchip |
 | ![](icons/2_Symbols/General/money_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/money_sd.svg){: style="height:28px;width:28px"} | Money |
 | ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/news-newspaper_sd.svg){: style="height:28px;width:28px"} | News Newspaper |
 | ![](icons/2_Symbols/General/numbers-numeric_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/numbers-numeric_sd.svg){: style="height:28px;width:28px"} | Numbers Numeric |
@@ -105,6 +106,7 @@
 |---|---|
 | ![](icons/2_Symbols/Image/alpha_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/alpha_sd.svg){: style="height:28px;width:28px"} | Alpha |
 | ![](icons/2_Symbols/Image/color_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/color_sd.svg){: style="height:28px;width:28px"} | Color |
+| ![](icons/2_Symbols/Image/exposure_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/exposure_sd.svg){: style="height:28px;width:28px"} | Exposure |
 | ![](icons/2_Symbols/Image/image_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/image_sd.svg){: style="height:28px;width:28px"} | Image |
 | ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/layers_sd.svg){: style="height:28px;width:28px"} | Layers |
 | ![](icons/2_Symbols/Image/layer_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Image/layer_sd.svg){: style="height:28px;width:28px"} | Layer |
