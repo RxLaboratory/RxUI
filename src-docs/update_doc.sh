@@ -6,3 +6,5 @@ cd ../Colors/
 /usr/bin/python3 build_color_doc.py
 cd ../src-docs/
 mkdocs build
+cd ../docs/
+echo rxui-docs.rainboxlab.org > CNAME
