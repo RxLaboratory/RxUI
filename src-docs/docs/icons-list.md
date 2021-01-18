@@ -38,6 +38,7 @@
 | ![](icons/3_Icons/Code/load-code-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/load-code-file_sd.svg){: style="height:28px;width:28px"} | Load Code File |
 | ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file-2_sd.svg){: style="height:28px;width:28px"} | Reload Code File 2 |
 | ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/reload-code-file_sd.svg){: style="height:28px;width:28px"} | Reload Code File |
+| ![](icons/3_Icons/Code/use-bash-terminal_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/use-bash-terminal_sd.svg){: style="height:28px;width:28px"} | Use Bash Terminal |
 | ![](icons/3_Icons/Code/versionning-git-fetch-reload_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/versionning-git-fetch-reload_sd.svg){: style="height:28px;width:28px"} | Versionning Git Fetch Reload |
 | ![](icons/3_Icons/Code/versionning-git_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Code/versionning-git_sd.svg){: style="height:28px;width:28px"} | Versionning Git |
 
@@ -61,6 +62,7 @@
 | ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-call_sd.svg){: style="height:28px;width:28px"} | Phone Call |
 | ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/phone-settings_sd.svg){: style="height:28px;width:28px"} | Phone Settings |
 | ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/play-radio-podcast_sd.svg){: style="height:28px;width:28px"} | Play Radio Podcast |
+| ![](icons/3_Icons/Communication/remote-control_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/remote-control_sd.svg){: style="height:28px;width:28px"} | Remote Control |
 | ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/send-receive-sms_sd.svg){: style="height:28px;width:28px"} | Send Receive Sms |
 | ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/sms_sd.svg){: style="height:28px;width:28px"} | Sms |
 | ![](icons/3_Icons/Communication/social-network_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Communication/social-network_sd.svg){: style="height:28px;width:28px"} | Social Network |
@@ -70,16 +72,20 @@
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/File/load-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/load-file_sd.svg){: style="height:28px;width:28px"} | Load File |
+| ![](icons/3_Icons/File/save-list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/save-list-file-preset_sd.svg){: style="height:28px;width:28px"} | Save List File Preset |
 | ![](icons/3_Icons/File/audio-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/audio-file_sd.svg){: style="height:28px;width:28px"} | Audio File |
 | ![](icons/3_Icons/File/export-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/export-file_sd.svg){: style="height:28px;width:28px"} | Export File |
 | ![](icons/3_Icons/File/film-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/film-file_sd.svg){: style="height:28px;width:28px"} | Film File |
 | ![](icons/3_Icons/File/image-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/image-file_sd.svg){: style="height:28px;width:28px"} | Image File |
 | ![](icons/3_Icons/File/import-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/import-file_sd.svg){: style="height:28px;width:28px"} | Import File |
+| ![](icons/3_Icons/File/list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/list-file-preset_sd.svg){: style="height:28px;width:28px"} | List File Preset |
+| ![](icons/3_Icons/File/load-list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/load-list-file-preset_sd.svg){: style="height:28px;width:28px"} | Load List File Preset |
 | ![](icons/3_Icons/File/load-text-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/load-text-file_sd.svg){: style="height:28px;width:28px"} | Load Text File |
 | ![](icons/3_Icons/File/reload-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/reload-file_sd.svg){: style="height:28px;width:28px"} | Reload File |
 | ![](icons/3_Icons/File/render-compute-build-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/render-compute-build-file_sd.svg){: style="height:28px;width:28px"} | Render Compute Build File |
 | ![](icons/3_Icons/File/savefileas_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/savefileas_sd.svg){: style="height:28px;width:28px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/savefile_sd.svg){: style="height:28px;width:28px"} | Savefile |
+| ![](icons/3_Icons/File/set-list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/set-list-file-preset_sd.svg){: style="height:28px;width:28px"} | Set List File Preset |
 | ![](icons/3_Icons/File/text-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/text-file_sd.svg){: style="height:28px;width:28px"} | Text File |
 | ![](icons/3_Icons/File/video-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/video-file_sd.svg){: style="height:28px;width:28px"} | Video File |
 
@@ -204,9 +210,11 @@
 | ![](icons/3_Icons/File/export-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/export-file_bd.svg){: style="height:48px;width:48px"} | Export File |
 | ![](icons/3_Icons/File/import-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/import-file_bd.svg){: style="height:48px;width:48px"} | Import File |
 | ![](icons/3_Icons/File/load-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-file_bd.svg){: style="height:48px;width:48px"} | Load File |
+| ![](icons/3_Icons/File/load-list-file-preset_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-list-file-preset_bd.svg){: style="height:48px;width:48px"} | Load List File Preset |
 | ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/load-text-file_bd.svg){: style="height:48px;width:48px"} | Load Text File |
 | ![](icons/3_Icons/File/reload-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/reload-file_bd.svg){: style="height:48px;width:48px"} | Reload File |
 | ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/render-compute-build-file_bd.svg){: style="height:48px;width:48px"} | Render Compute Build File |
+| ![](icons/3_Icons/File/save-list-file-preset_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/save-list-file-preset_bd.svg){: style="height:48px;width:48px"} | Save List File Preset |
 | ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefileas_bd.svg){: style="height:48px;width:48px"} | Savefileas |
 | ![](icons/3_Icons/File/savefile_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/File/savefile_bd.svg){: style="height:48px;width:48px"} | Savefile |
 

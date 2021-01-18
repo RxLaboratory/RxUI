@@ -64,12 +64,14 @@
 | ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/calendar_sd.svg){: style="height:28px;width:28px"} | Calendar |
 | ![](icons/2_Symbols/General/chat_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chat_sd.svg){: style="height:28px;width:28px"} | Chat |
 | ![](icons/2_Symbols/General/chipset_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/chipset_sd.svg){: style="height:28px;width:28px"} | Chipset |
+| ![](icons/2_Symbols/General/clock_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/clock_sd.svg){: style="height:28px;width:28px"} | Clock |
 | ![](icons/2_Symbols/General/connections_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/connections_sd.svg){: style="height:28px;width:28px"} | Connections |
 | ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/constraint_sd.svg){: style="height:28px;width:28px"} | Constraint |
 | ![](icons/2_Symbols/General/counter_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/counter_sd.svg){: style="height:28px;width:28px"} | Counter |
 | ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/documentation_sd.svg){: style="height:28px;width:28px"} | Documentation |
 | ![](icons/2_Symbols/General/help_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/help_sd.svg){: style="height:28px;width:28px"} | Help |
 | ![](icons/2_Symbols/General/internet_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/internet_sd.svg){: style="height:28px;width:28px"} | Internet |
+| ![](icons/2_Symbols/General/keyboard-control_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/keyboard-control_sd.svg){: style="height:28px;width:28px"} | Keyboard Control |
 | ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/language-translation_sd.svg){: style="height:28px;width:28px"} | Language Translation |
 | ![](icons/2_Symbols/General/list_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/list_sd.svg){: style="height:28px;width:28px"} | List |
 | ![](icons/2_Symbols/General/mail_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/General/mail_sd.svg){: style="height:28px;width:28px"} | Mail |
