@@ -75,6 +75,7 @@
 | ![](icons/3_Icons/File/save-list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/save-list-file-preset_sd.svg){: style="height:28px;width:28px"} | Save List File Preset |
 | ![](icons/3_Icons/File/audio-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/audio-file_sd.svg){: style="height:28px;width:28px"} | Audio File |
 | ![](icons/3_Icons/File/export-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/export-file_sd.svg){: style="height:28px;width:28px"} | Export File |
+| ![](icons/3_Icons/File/file-arcihve_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/file-arcihve_sd.svg){: style="height:28px;width:28px"} | File Arcihve |
 | ![](icons/3_Icons/File/film-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/film-file_sd.svg){: style="height:28px;width:28px"} | Film File |
 | ![](icons/3_Icons/File/import-file_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/import-file_sd.svg){: style="height:28px;width:28px"} | Import File |
 | ![](icons/3_Icons/File/list-file-preset_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/File/list-file-preset_sd.svg){: style="height:28px;width:28px"} | List File Preset |
@@ -110,6 +111,8 @@
 | Icon | Name |
 |---|---|
 | ![](icons/3_Icons/General/add-property_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/add-property_sd.svg){: style="height:28px;width:28px"} | Add Property |
+| ![](icons/3_Icons/General/automation-sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/automation-sd.svg){: style="height:28px;width:28px"} | Automation Sd |
+| ![](icons/3_Icons/General/batch-control_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/batch-control_sd.svg){: style="height:28px;width:28px"} | Batch Control |
 | ![](icons/3_Icons/General/check-money_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/check-money_sd.svg){: style="height:28px;width:28px"} | Check Money |
 | ![](icons/3_Icons/General/check-news_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/check-news_sd.svg){: style="height:28px;width:28px"} | Check News |
 | ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/General/manage-energy_sd.svg){: style="height:28px;width:28px"} | Manage Energy |
@@ -159,6 +162,19 @@
 | ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-audio-quality_sd.svg){: style="height:28px;width:28px"} | Set Audio Quality |
 | ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:28px;width:28px"} | Set Codec Settings |
 | ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:28px;width:28px"} | Set Loops |
+
+### Rigging Animation
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Rigging Animation/auto-rig_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/auto-rig_sd.svg){: style="height:28px;width:28px"} | Auto Rig |
+| ![](icons/3_Icons/Rigging Animation/bezier-ik_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/bezier-ik_sd.svg){: style="height:28px;width:28px"} | Bezier Ik |
+| ![](icons/3_Icons/Rigging Animation/bone-structure-limb_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/bone-structure-limb_sd.svg){: style="height:28px;width:28px"} | Bone Structure Limb |
+| ![](icons/3_Icons/Rigging Animation/fk-forward-kinematics_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/fk-forward-kinematics_sd.svg){: style="height:28px;width:28px"} | Fk Forward Kinematics |
+| ![](icons/3_Icons/Rigging Animation/ik-fk_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/ik-fk_sd.svg){: style="height:28px;width:28px"} | Ik Fk |
+| ![](icons/3_Icons/Rigging Animation/ik-inverse-kinematics_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/ik-inverse-kinematics_sd.svg){: style="height:28px;width:28px"} | Ik Inverse Kinematics |
+| ![](icons/3_Icons/Rigging Animation/quadruped-armature-structure-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/quadruped-armature-structure-bones_sd.svg){: style="height:28px;width:28px"} | Quadruped Armature Structure Bones |
+| ![](icons/3_Icons/Rigging Animation/rig-biped-armature-structure-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Rigging Animation/rig-biped-armature-structure-bones_sd.svg){: style="height:28px;width:28px"} | Rig Biped Armature Structure Bones |
 
 ### Transport
 
@@ -283,6 +299,17 @@
 | ![](icons/3_Icons/Media/play-music_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/play-music_bd.svg){: style="height:48px;width:48px"} | Play Music |
 | ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/resize-video_bd.svg){: style="height:48px;width:48px"} | Resize Video |
 | ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Media/set-codec-settings_bd.svg){: style="height:48px;width:48px"} | Set Codec Settings |
+
+### Rigging Animation
+
+| Icon | Name |
+|---|---|
+| ![](icons/3_Icons/Rigging Animation/auto-rig_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/auto-rig_bd.svg){: style="height:48px;width:48px"} | Auto Rig |
+| ![](icons/3_Icons/Rigging Animation/bone-structure-limb_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/bone-structure-limb_bd.svg){: style="height:48px;width:48px"} | Bone Structure Limb |
+| ![](icons/3_Icons/Rigging Animation/fk-forward-kinematics_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/fk-forward-kinematics_bd.svg){: style="height:48px;width:48px"} | Fk Forward Kinematics |
+| ![](icons/3_Icons/Rigging Animation/ik-fk_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/ik-fk_bd.svg){: style="height:48px;width:48px"} | Ik Fk |
+| ![](icons/3_Icons/Rigging Animation/ik-inverse-kinematics_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/ik-inverse-kinematics_bd.svg){: style="height:48px;width:48px"} | Ik Inverse Kinematics |
+| ![](icons/3_Icons/Rigging Animation/rig-biped-armature-structure-bones_bd.svg){: style="height:32px;width:32px"} - ![](icons/3_Icons/Rigging Animation/rig-biped-armature-structure-bones_bd.svg){: style="height:48px;width:48px"} | Rig Biped Armature Structure Bones |
 
 ### Transport
 
