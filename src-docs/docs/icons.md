@@ -9,6 +9,8 @@ We're proposing here some guidelines to build icons based on our experience with
 !!! Hint
     All of this document and these thoughts are evolutive. Also, we're not omniscient, and you have your own thoughts and experience; we would be very happy if you would share them and contribute to this document, these guidelines, these list, and these icons. Together, we could make sure all our software is the best we can imagine.
 
+![media icons](/img/media_symbols.svg){: style="height:720px;width:720px"}  
+
 ### User-friendliness
 
 This is the most important aspect of our UI and icons. This means that after a short period of getting used to them, the user is as quick as possible using the software, which UI is unobtrusive.
@@ -44,3 +46,4 @@ We're not the first to draw icons. Inspiration should be taken from other Free a
 
 We especially admire the work of [fontawesome](https://github.com/FortAwesome/Font-Awesome).
 
+![rigging icons](/img/rigging_symbols.svg){: style="height:720px;width:720px"}  
