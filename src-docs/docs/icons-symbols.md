@@ -9,10 +9,26 @@
 
 | Symbol | Name |
 |---|---|
-| ![](icons/2_Symbols/Anatomy/arm-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/arm-bones_sd.svg){: style="height:28px;width:28px"} | Arm Bones |
-| ![](icons/2_Symbols/Anatomy/bone_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/bone_sd.svg){: style="height:28px;width:28px"} | Bone |
 | ![](icons/2_Symbols/Anatomy/head-skull-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/head-skull-bones_sd.svg){: style="height:28px;width:28px"} | Head Skull Bones |
+| ![](icons/2_Symbols/Anatomy/arm-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/arm-bones_sd.svg){: style="height:28px;width:28px"} | Arm Bones |
+| ![](icons/2_Symbols/Anatomy/body-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/body-bones_sd.svg){: style="height:28px;width:28px"} | Body Bones |
+| ![](icons/2_Symbols/Anatomy/bone_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/bone_sd.svg){: style="height:28px;width:28px"} | Bone |
+| ![](icons/2_Symbols/Anatomy/ear_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/ear_sd.svg){: style="height:28px;width:28px"} | Ear |
+| ![](icons/2_Symbols/Anatomy/eyebrow_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/eyebrow_sd.svg){: style="height:28px;width:28px"} | Eyebrow |
+| ![](icons/2_Symbols/Anatomy/eye_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/eye_sd.svg){: style="height:28px;width:28px"} | Eye |
+| ![](icons/2_Symbols/Anatomy/foot-plantigrade_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/foot-plantigrade_sd.svg){: style="height:28px;width:28px"} | Foot Plantigrade |
+| ![](icons/2_Symbols/Anatomy/hair_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/hair_sd.svg){: style="height:28px;width:28px"} | Hair |
+| ![](icons/2_Symbols/Anatomy/hips-pelvis-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/hips-pelvis-bones_sd.svg){: style="height:28px;width:28px"} | Hips Pelvis Bones |
+| ![](icons/2_Symbols/Anatomy/hoof-ungulate_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/hoof-ungulate_sd.svg){: style="height:28px;width:28px"} | Hoof Ungulate |
 | ![](icons/2_Symbols/Anatomy/leg-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/leg-bones_sd.svg){: style="height:28px;width:28px"} | Leg Bones |
+| ![](icons/2_Symbols/Anatomy/mouth_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/mouth_sd.svg){: style="height:28px;width:28px"} | Mouth |
+| ![](icons/2_Symbols/Anatomy/nose_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/nose_sd.svg){: style="height:28px;width:28px"} | Nose |
+| ![](icons/2_Symbols/Anatomy/paw-digitigrade_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/paw-digitigrade_sd.svg){: style="height:28px;width:28px"} | Paw Digitigrade |
+| ![](icons/2_Symbols/Anatomy/shoulders-neck-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/shoulders-neck-bones_sd.svg){: style="height:28px;width:28px"} | Shoulders Neck Bones |
+| ![](icons/2_Symbols/Anatomy/spine-vertebrae-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/spine-vertebrae-bones_sd.svg){: style="height:28px;width:28px"} | Spine Vertebrae Bones |
+| ![](icons/2_Symbols/Anatomy/spine-vertebrae-head-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/spine-vertebrae-head-bones_sd.svg){: style="height:28px;width:28px"} | Spine Vertebrae Head Bones |
+| ![](icons/2_Symbols/Anatomy/tail-bones_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/tail-bones_sd.svg){: style="height:28px;width:28px"} | Tail Bones |
+| ![](icons/2_Symbols/Anatomy/tail_sd.svg){: style="height:18px;width:18px"} - ![](icons/2_Symbols/Anatomy/tail_sd.svg){: style="height:28px;width:28px"} | Tail |
 
 ### Animals
 

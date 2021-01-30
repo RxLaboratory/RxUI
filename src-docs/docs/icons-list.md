@@ -26,6 +26,8 @@
 | ![](icons/3_Icons/Application/maximize_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/maximize_sd.svg){: style="height:28px;width:28px"} | Maximize |
 | ![](icons/3_Icons/Application/minimize_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/minimize_sd.svg){: style="height:28px;width:28px"} | Minimize |
 | ![](icons/3_Icons/Application/quit_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/quit_sd.svg){: style="height:28px;width:28px"} | Quit |
+| ![](icons/3_Icons/Application/set-show-grid_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/set-show-grid_sd.svg){: style="height:28px;width:28px"} | Set Show Grid |
+| ![](icons/3_Icons/Application/set-show-list_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/set-show-list_sd.svg){: style="height:28px;width:28px"} | Set Show List |
 | ![](icons/3_Icons/Application/unmaximize_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Application/unmaximize_sd.svg){: style="height:28px;width:28px"} | Unmaximize |
 
 ### Code

@@ -46,4 +46,8 @@ We're not the first to draw icons. Inspiration should be taken from other Free a
 
 We especially admire the work of [fontawesome](https://github.com/FortAwesome/Font-Awesome).
 
-![rigging icons](/img/rigging_symbols.svg){: style="height:720px;width:720px"}  
+![rigging icons](/img/rigging_symbols.svg){: style="height:720px;width:720px"}
+
+![bones icons](/img/bones_symbols.svg){: style="height:720px;width:720px"}  
+
+![anatomy icons](/img/anatomy_symbols.svg){: style="height:720px;width:720px"}  
