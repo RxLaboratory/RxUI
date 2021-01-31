@@ -163,9 +163,11 @@
 | ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-codec-settings_sd.svg){: style="height:28px;width:28px"} | Set Codec Settings |
 | ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-loops_sd.svg){: style="height:28px;width:28px"} | Set Loops |
 | ![](icons/3_Icons/Media/set-video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-video-framerate_sd.svg){: style="height:28px;width:28px"} | Set Video Framerate |
+| ![](icons/3_Icons/Media/set-video-speed-time-remap_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-video-speed-time-remap_sd.svg){: style="height:28px;width:28px"} | Set Video Speed Time Remap |
 | ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-codec_sd.svg){: style="height:28px;width:28px"} | Video Codec |
 | ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-framerate_sd.svg){: style="height:28px;width:28px"} | Video Framerate |
 | ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-quality_sd.svg){: style="height:28px;width:28px"} | Video Quality |
+| ![](icons/3_Icons/Media/video-speed_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/video-speed_sd.svg){: style="height:28px;width:28px"} | Video Speed |
 | ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/play-music_sd.svg){: style="height:28px;width:28px"} | Play Music |
 | ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/resize-video_sd.svg){: style="height:28px;width:28px"} | Resize Video |
 | ![](icons/3_Icons/Media/set-after-effects-composition_sd.svg){: style="height:18px;width:18px"} - ![](icons/3_Icons/Media/set-after-effects-composition_sd.svg){: style="height:28px;width:28px"} | Set After Effects Composition |
