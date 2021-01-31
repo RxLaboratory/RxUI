@@ -1,0 +1,14 @@
+GIMP Palette
+Name: RxUI Grayscale
+#
+  0   0   0	Black
+ 21  21  21	Obsidian
+ 28  28  28	Abyss Grey
+ 34  34  34	Very Dark Grey
+ 37  37  37	Darker Grey
+ 51  51  51	Dark Grey
+ 67  67  67	Less Dark Grey
+109 109 109	Medium Grey
+157 157 157	Less Light Grey
+227 227 227	Light Grey
+255 255 255	White
