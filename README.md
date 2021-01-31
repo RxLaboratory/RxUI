@@ -14,4 +14,3 @@ Guidelines, stylesheets, icons and other UI elements to be used by RxOT - Rx Ope
 - [*src-docs*](https://github.com/Rainbox-dev/RxUI/tree/master/src-docs) Contains the source of the documentation, in the mkdocs format.
 - [*tools*](https://github.com/Rainbox-dev/RxUI/tree/master/tools) Contains useful scripts to work with RxUI
 
-All other folders are going to be removed as they're now available in other more specific repos.
