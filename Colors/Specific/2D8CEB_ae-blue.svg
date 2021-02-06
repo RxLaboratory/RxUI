@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="ae_blue.svg">
+   sodipodi:docname="2D8CEB_ae-blue.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="34.355295"
-     inkscape:cy="-309.32961"
+     inkscape:cx="-88.644705"
+     inkscape:cy="-255.32961"
      inkscape:document-units="px"
      inkscape:current-layer="svg8"
      showgrid="false"
@@ -66,12 +66,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#70b9ff;fill-opacity:1;stroke-width:0.26458332"
+     style="fill:#2d8ceb;fill-opacity:1;stroke-width:0.26458332"
      id="rect4518"
      width="33.866669"
      height="33.866669"
