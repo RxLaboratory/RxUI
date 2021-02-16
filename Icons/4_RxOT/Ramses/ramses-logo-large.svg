@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ramses-logo-large.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style2">.a{filter:url(#a);}.b{fill:#710132;}.c{fill:#e3e3e3;}</style>
+    <filter
+       name="AI_FlouGaussien_4"
+       id="a">
+      <feGaussianBlur
+         id="feGaussianBlur4"
+         stdDeviation="4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="131.00852"
+     inkscape:cy="198.86662"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.884402,-131.97524)">
+    <g
+       transform="matrix(0.75205822,0,0,0.75205822,59.216835,10.706856)"
+       id="layer1-8"
+       inkscape:label="Calque 1">
+      <rect
+         mask="none"
+         inkscape:label="CADRE"
+         class="cls-1"
+         x="1.3223073"
+         y="162.85562"
+         width="132.82205"
+         height="132.82205"
+         rx="24.896191"
+         id="rect844"
+         style="display:inline;opacity:1;fill:#710132;stroke:#710132;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+         clip-path="none" />
+      <circle
+         r="65.103058"
+         cy="229.26665"
+         cx="67.73333"
+         id="path16"
+         style="fill:#e3e4e3;stroke-width:0.38135347" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccsccccccsscscccscssscsccccc"
+       inkscape:connector-curvature="0"
+       id="circle15"
+       d="m 99.970482,140.1926 c -3.932069,-0.0222 -8.094314,0.48035 -12.317509,1.6333 -15.198843,3.79829 -26.45802,17.54254 -26.45802,33.91819 0,6.50156 1.142566,11.17583 3.393651,14.51943 2.133849,3.50824 5.099875,6.49448 8.994719,8.32279 10.056901,4.7277 16.734193,4.82389 20.01082,8.00459 3.246203,3.14322 4.936467,16.91972 -5.141496,27.61087 l 32.196083,-0.0296 c -3.68619,-17.94887 6.65972,-22.53072 9.68357,-21.42134 3.07769,1.12811 8.61033,1.33403 9.95375,-1.54004 1.34343,-2.87404 -1.23103,-6.36368 -1.23103,-6.67027 0,-0.30657 1.64076,-6.15795 1.84907,-6.46457 0.20826,-0.30659 1.23089,-0.81881 1.33385,-1.84629 0.10298,-1.02745 -0.71858,-1.19856 -0.71858,-1.19856 -0.0566,-0.8337 -0.0221,-1.67108 0.10322,-2.49722 0.93392,-0.37882 1.45528,-1.37894 1.23104,-2.36149 0,0 -2.75027,-4.54277 -2.35005,-7.19918 0.40022,-2.6564 4.19642,-3.06832 4.91494,-4.91493 -3.48962,-10.67476 -9.43874,-12.62431 -12.00622,-13.75239 -2.56747,-1.12809 -3.18336,-4.72095 -3.59295,-6.46459 -0.40956,-1.7436 -2.35921,-3.28329 -3.89922,-4.61733 -1.54002,-1.33406 -3.28587,-5.43934 -6.36354,-7.69787 -4.68609,-3.14253 -11.67107,-5.29015 -19.586161,-5.33367 z m 28.004918,22.44225 c 0,0 2.40597,1.51424 2.0479,4.27128 0,0 -2.04814,1.02511 -5.97774,0 0.85425,-2.39893 3.92984,-4.27128 3.92984,-4.27128 z"
+       style="display:inline;fill:#710132;stroke-width:0.23404466" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Calque 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.60509491px;line-height:1.25;font-family:RainboxHeader;-inkscape-font-specification:'RainboxHeader, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.89012736"
+       x="30.312475"
+       y="127.79191"
+       id="text842"><tspan
+         sodipodi:role="line"
+         id="tspan840"
+         x="30.312475"
+         y="127.79191"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.60509491px;font-family:RainboxHeader;-inkscape-font-specification:'RainboxHeader, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;stroke-width:0.89012736">RAMSES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93622637px;line-height:1.25;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.17340565"
+       x="29.729832"
+       y="134.18436"
+       id="text846"><tspan
+         sodipodi:role="line"
+         id="tspan844"
+         x="29.729832"
+         y="134.18436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.93622637px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e3e3e3;stroke-width:0.17340565">Rx Asset Management System</tspan></text>
+  </g>
+</svg>
