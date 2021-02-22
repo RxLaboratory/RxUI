@@ -61,7 +61,7 @@ These colors are not part of the colors which should be used by *RxOT*, but they
 | Color | Name | Hex |
 | ---- | ------- | ----------- |
 | ![](colors/Specific/262626_ae-grey.svg){: style="height:25px;width:25px"} | Ae Grey | #262626 |
+| ![](colors/Specific/2D8CEB_ae-blue.svg){: style="height:25px;width:25px"} | Ae Blue | #2D8CEB |
 | ![](colors/Specific/4d4d4d_ae-grey-light.svg){: style="height:25px;width:25px"} | Ae Grey Light | #4d4d4d |
-| ![](colors/Specific/70b9ff_ae-blue.svg){: style="height:25px;width:25px"} | Ae Blue | #70b9ff |
 | ![](colors/Specific/a526c4_rxlab-purple.svg){: style="height:25px;width:25px"} | Rxlab Purple | #a526c4 |
 | ![](colors/Specific/ec1818_rainbox-productions-red.svg){: style="height:25px;width:25px"} | Rainbox Productions Red | #ec1818 |
