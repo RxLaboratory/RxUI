@@ -26,6 +26,7 @@ site_dir: ../docs/
 dev_addr: '127.0.0.1:8001'
 nav:
     - About: index.md
+    - Typography and syntax: syntax.md
     - Colors: colors.md
     - Icons: 
       - Introduction: icons.md
