@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="ramses-icon-large.svg">
+   sodipodi:docname="ramses-icon-large.svg"
+   inkscape:export-filename="/media/DATA2/DEV_SRC/RxOT/Ramses/Ramses-Client/src/resources/icons/appicon/ramses_256.png"
+   inkscape:export-xdpi="48.000004"
+   inkscape:export-ydpi="48.000004">
   <defs
      id="defs2">
     <style
@@ -36,17 +39,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-376.34583"
-     inkscape:cy="-202.85101"
+     inkscape:cx="-891.11957"
+     inkscape:cy="-214.16472"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1848"
-     inkscape:window-height="1136"
-     inkscape:window-x="0"
+     inkscape:window-width="1684"
+     inkscape:window-height="1376"
+     inkscape:window-x="3676"
      inkscape:window-y="27"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -69,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
