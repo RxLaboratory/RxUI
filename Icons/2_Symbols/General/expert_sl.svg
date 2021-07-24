@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,8 +13,11 @@
    viewBox="0 0 8.4666666 8.4666666"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="expert_sl.svg">
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="expert_sl.svg"
+   inkscape:export-filename="D:\DEV_SRC\RxOT\DuAEF\src\DuESF\icons\w16/w16_expert.png"
+   inkscape:export-xdpi="47.96146"
+   inkscape:export-ydpi="47.96146">
   <defs
      id="defs2">
     <style
@@ -1510,10 +1511,10 @@
      inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="120"
+     inkscape:window-width="3440"
+     inkscape:window-height="1417"
+     inkscape:window-x="1915"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -1523,7 +1524,8 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-page="true">
+     inkscape:snap-page="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="8.4666666,0"
        orientation="-32,0"
@@ -2140,5 +2142,5 @@
      d="M 6.9457897,1.2085411 A 1.4343366,1.4343366 0 0 1 8.0215422,1.6531855 1.4343366,1.4343366 0 0 1 8.4661866,2.728938 V 5.1637245 A 1.4343366,1.4343366 0 0 1 8.2187635,5.9848822 1.5670129,1.5670129 0 0 1 7.5625545,6.5478594 L 6.0314001,7.2255835 v 0.7924709 a 0.45181605,0.45181605 0 0 1 -0.451816,0.455402 H 0.45541619 A 0.45181605,0.45181605 0 0 1 1.4344543e-5,8.0180544 V 0.45192854 A 0.44464436,0.44464436 0 0 1 0.13269057,0.13278858 0.43747269,0.43747269 0 0 1 0.45541619,1.1248256e-4 H 5.5867556 A 0.42671516,0.42671516 0 0 1 5.9058956,0.13278858 0.430301,0.430301 0 0 1 6.0385717,0.45192854 V 1.2085411 Z M 2.115661,6.6410912 a 0.29045318,0.29045318 0 0 0 0.2151505,-0.082474 0.29403901,0.29403901 0 0 0 0.08606,-0.2187364 V 2.1121732 a 0.30479654,0.30479654 0 1 0 -0.6060073,0 V 6.3398805 A 0.29045318,0.29045318 0 0 0 2.115661,6.6410912 Z m 1.7929207,0 a 0.28328149,0.28328149 0 0 0 0.2151505,-0.082474 0.29403901,0.29403901 0 0 0 0.08606,-0.2187364 V 2.1121732 a 0.29045318,0.29045318 0 0 0 -0.08606,-0.2151505 0.28686734,0.28686734 0 0 0 -0.2151505,-0.08606 0.29403901,0.29403901 0 0 0 -0.2187363,0.08606 0.30479654,0.30479654 0 0 0 -0.082474,0.2151505 V 6.3398805 A 0.30479654,0.30479654 0 0 0 3.6898454,6.558617 0.29045318,0.29045318 0 0 0 3.926511,6.6410911 Z M 7.2290712,5.152967 V 2.7181805 A 0.29403901,0.29403901 0 0 0 7.143011,2.4994441 0.29762486,0.29762486 0 0 0 6.9278605,2.41697 H 6.0385717 V 5.8880646 L 7.0784658,5.4147335 A 0.26535229,0.26535229 0 0 0 7.2470004,5.152967 Z"
      class="cls-1"
      inkscape:connector-curvature="0"
-     style="fill:#e3e3e3;stroke-width:0.35858414" />
+     style="fill:#e3e3e3;stroke-width:0.35858414;stroke:none;fill-opacity:1" />
 </svg>
