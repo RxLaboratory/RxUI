@@ -1,8 +1,14 @@
+https://fr.glosbe.com/fr/pcd
+http://www.chti.org/chti/glossaire/index.php
+https://www.lexilogos.com/picard_dictionnaire.htm
+https://nord-escapade.com/le-dictionnaire-du-chti/#!
+https://www.freelang.com/enligne/chti.php?lg=fr
+
 to animate: armuer
 
-animation: armument
+animation: armumint
 
-application: 
+application: bastringue
 
 arm: bras
 
@@ -62,7 +68,7 @@ rig: manicraque
 
 to rig: acrinkiller
 
-script: 
+script: bastringue
 
 skin: piau
 
@@ -74,7 +80,7 @@ thumb: pau
 
 toe, toes: ortoil, ortaus
 
-settings: 
+settings: préférinches
 
 tool: otiu
 
