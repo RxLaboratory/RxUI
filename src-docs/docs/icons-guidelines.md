@@ -67,14 +67,8 @@ A small badge may be added to the icon, showing specifically the triggered actio
 
 [Here is the list of the badges we propose](icons-badges.md)
 
-## Base Objects / Abstract Symbols (nouns)
-
-The main symbol in the icon should show the object it is manipulating. The icon could possibly combine two of them.
-
-[Here is the list of the symbols we propose](icons-symbols.md)
-
 ## Icon List (sentences)
 
-We've already built, and are building, icons to be used in our - and your - software, based on these guidelines and existing symbols, badges and colors.
+We've already built, and are building, icons to be used in our - and your - software, based on these guidelines and existing badges and colors.
 
 [Here is the list of these icons](icons-list.md)
