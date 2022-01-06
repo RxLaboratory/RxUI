@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<<<<<<< HEAD
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-=======
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
->>>>>>> master
    width="32"
    height="32"
    viewBox="0 0 8.4666666 8.4666666"
    version="1.1"
    id="svg8"
-<<<<<<< HEAD
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="tag_sd.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,24 +14,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-=======
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="tag_sd.svg">
->>>>>>> master
   <defs
      id="defs2">
     <style
        id="style1399">.cls-1{fill:#e3e3e3;}</style>
     <style
-<<<<<<< HEAD
-       id="style857">.cls-1{fill:#e52120;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:1.2px;}.cls-2{fill:#6dbc88;}.cls-3{fill:#701034;}.cls-4{fill:#51aae0;}.cls-5{fill:none;}</style>
-    <style
-       id="style857-2">.cls-1{fill:#e52120;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{stroke:#000;stroke-miterlimit:10;stroke-width:1.2px;}.cls-2{fill:#6dbc88;}.cls-3{fill:#701034;}.cls-4{fill:#51aae0;}.cls-5{fill:none;}</style>
-    <style
-       id="style1399-7">.cls-1{fill:#e3e3e3;}</style>
-    <style
-       id="style1399-2">.cls-1{fill:#e3e3e3;}</style>
-=======
        id="style1399-4">.cls-1{fill:#e3e3e3;}</style>
     <style
        id="style1399-8">.cls-1{fill:#e3e3e3;}</style>
@@ -75,7 +48,6 @@
        id="style1399-4-5-1">.cls-1{fill:#e3e3e3;}</style>
     <style
        id="style1399-0-5">.cls-1{fill:#e3e3e3;}</style>
->>>>>>> master
   </defs>
   <sodipodi:namedview
      id="base"
@@ -84,12 +56,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
-     inkscape:zoom="5.6568543"
-     inkscape:cx="5.5684659"
-     inkscape:cy="23.246135"
+     inkscape:zoom="15.999999"
+     inkscape:cx="-3.5937502"
+     inkscape:cy="22.218751"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
@@ -97,36 +68,17 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="1"
-     inkscape:snap-nodes="false"
-=======
-     inkscape:zoom="15.999999"
-     inkscape:cx="1.9052114"
-     inkscape:cy="22.306962"
-     inkscape:document-units="mm"
-     inkscape:current-layer="svg8"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="3378"
-     inkscape:window-height="1417"
-     inkscape:window-x="973"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
->>>>>>> master
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-<<<<<<< HEAD
-     inkscape:snap-bbox-midpoints="true">
-=======
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:snap-others="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-page="true"
-     inkscape:document-rotation="0">
->>>>>>> master
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="1">
     <sodipodi:guide
        position="8.4666666,0"
        orientation="-32,0"
@@ -151,40 +103,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-<<<<<<< HEAD
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-288.53334)">
-    <path
-       d="m 0,292.83087 v 3.37539 c 0,0.43839 0.35536863,0.79375 0.79375042,0.79375 H 4.169141 a 0.79375042,-0.79375042 0 0 0 0.5612642,-0.23249 l 3.5037796,-3.50377 c 0.3099758,-0.30998 0.3099758,-0.81255 0,-1.12252 l -3.3753904,-3.3754 c -0.3099762,-0.30998 -0.8125526,-0.30998 -1.1225285,0 l -3.50377972,3.50379 A 0.79375042,-0.79375042 0 0 0 0,292.83087 Z m 1.8520843,3.11081 c -0.4383817,0 -0.7937505,-0.35536 -0.7937505,-0.79375 0,-0.43839 0.3553688,-0.79375 0.7937505,-0.79375 0.4383817,0 0.7937503,0.35536 0.7937503,0.79375 0,0.43839 -0.3553686,0.79375 -0.7937503,0.79375 z"
-       id="path913"
-       style="stroke-width:0.0165365;fill:#232323;fill-opacity:1" />
-  </g>
-  <style
-     id="style815"
-     type="text/css">
-	.st0{fill:#00005B;}
-	.st1{fill:#9999FF;}
-</style>
-  <style
-     id="style815-2"
-     type="text/css">
-	.st0{fill:#00005B;}
-	.st1{fill:#9999FF;}
-</style>
-=======
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     d="M 4.1691408,8.4666667 H 0.7937505 C 0.35536856,8.4666667 4.4166663e-8,8.111298 3.4166663e-8,7.6729161 l -1e-8,-3.3753903 A 0.7937504,0.7937504 0 0 1 0.23248627,3.7362617 L 3.7362657,0.23248185 c 0.3099762,-0.3099758 0.8125523,-0.3099758 1.1225284,0 L 8.2341848,3.6078726 c 0.3099758,0.3099757 0.3099758,0.8125522 1e-7,1.1225283 L 4.730405,8.2341804 A 0.7937504,0.7937504 0 0 1 4.1691408,8.4666667 Z M 1.0583338,6.6145823 c 0,0.4383819 0.3553686,0.7937505 0.7937505,0.7937506 0.4383816,0 0.7937505,-0.3553687 0.7937505,-0.7937506 0,-0.4383816 -0.3553688,-0.7937505 -0.7937505,-0.7937505 -0.4383819,0 -0.7937505,0.3553689 -0.7937505,0.7937505 z"
      id="path849"
-     style="stroke-width:0.0165365;fill:#232323;fill-opacity:1" />
->>>>>>> master
+     style="fill:#232323;fill-opacity:1;stroke-width:0.0625002"
+     d="m 31.121094,17.878906 c 1.171561,-1.171563 1.171562,-3.070626 0,-4.242187 L 18.363281,0.87890625 C 17.7775,0.29312522 17.009952,0 16.242188,0 15.474422,0 14.706876,0.29312522 14.121094,0.87890625 9.7070315,5.292969 5.292969,9.7070316 0.87890625,14.121094 0.31626962,14.683611 1.2028687e-4,15.446584 0,16.242188 V 29 c 3.7795276e-8,1.656876 1.3431234,3 3,3 h 12.757812 c 0.795603,-1.2e-4 1.558577,-0.316269 2.121094,-0.878906 M 7,22 c 1.6568757,0 3,1.343125 3,3 0,1.656876 -1.3431247,3 -3,3 -1.6568765,0 -3,-1.343124 -3,-3 0,-1.656875 1.3431235,-3 3,-3 z"
+     transform="scale(0.26458333)"
+     sodipodi:nodetypes="ccsscccssccsssss" />
 </svg>
