@@ -1,18 +1,33 @@
 GIMP Palette
-Name: RxUI Tints
+Name: DuCoPi
 #
-  0 162 163	Dark Cyan
+  0 162 163	#00a2a3
+ 16 104 142	#10688e
+ 62 139  69	#3e8b45
+129   9 173	#8109ad
+131 211 246	#83d3f6
+132  44  83	#842c53
+132 179  48	#84b330
+138 216 145	#8ad891
+140 255 239	#8cffef
+172  16  16	#ac1010
+213 136 241	#d588f1
+216 255 140	#d8ff8c
+236 215  24	#ecd718
+241 136 186	#f188ba
+249 105 105	#f96969
  16 104 142	Dark Blue
- 62 139  69	Dark Green
-129   9 173	Dark Purple
-132  44  83	Dark Pink
 132 179  48	Dark Citrus
+  0 162 163	Dark Cyan
+ 62 139  69	Dark Green
+132  44  83	Dark Pink
+129   9 173	Dark Purple
 172  16  16	Dark Red
-  0 162 163	Light Cyan
 131 211 246	Light Blue
-138 216 145	Light Green
-213 136 241	Light Purple
 216 255 140	Light Citrus
-236 215  24	Yellow
+  0 162 163	Light Cyan
+138 216 145	Light Green
 241 136 186	Light Pink
+213 136 241	Light Purple
 249 105 105	Light Red
+236 215  24	Yellow
