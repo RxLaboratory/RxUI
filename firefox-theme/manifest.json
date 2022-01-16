@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "RxUI",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(67, 67, 67)",
+      "toolbar_text": "rgb(227, 227, 227)",
+      "frame": "rgb(34, 34, 34)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(34, 34, 34)",
+      "toolbar_field_text": "rgb(227, 227, 227)",
+      "tab_line": "rgb(67, 67, 67)",
+      "popup": "rgb(67, 67, 67)",
+      "popup_text": "rgb(227, 227, 227)",
+      "button_background_active": "rgb(51, 51, 51)",
+      "button_background_hover": "rgb(67, 67, 67)",
+      "frame_inactive": "rgb(34, 34, 34)",
+      "icons_attention": "rgb(213, 136, 241)",
+      "icons": "rgb(227, 227, 227)",
+      "ntp_background": "rgb(34, 34, 34)",
+      "ntp_text": "rgb(138, 216, 145)",
+      "popup_border": "rgb(67, 67, 67)",
+      "popup_highlight": "rgb(34, 34, 34)",
+      "sidebar_border": "rgb(34, 34, 34)",
+      "sidebar_highlight": "rgb(17, 17, 17)",
+      "sidebar_text": "rgb(227, 227, 227)",
+      "sidebar": "rgb(34, 34, 34)",
+      "tab_selected": "rgb(67, 67, 67)",
+      "toolbar_bottom_separator": "rgb(67, 67, 67)",
+      "toolbar_field_border_focus": "rgb(34, 34, 34)",
+      "toolbar_field_border": "rgb(67, 67, 67)",
+      "toolbar_field_focus": "rgb(51, 51, 51)",
+      "toolbar_field_highlight": "rgb(34, 34, 34)",
+      "toolbar_field_separator": "rgb(34, 34, 34)",
+      "toolbar_field_text_focus": "rgb(227, 227, 227)",
+      "toolbar_top_separator": "rgb(67, 67, 67)",
+      "toolbar_vertical_separator": "rgb(67, 67, 67)",
+      "tab_loading": "rgb(67, 67, 67)"
+    }
+  }
+}
