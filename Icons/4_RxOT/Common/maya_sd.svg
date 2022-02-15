@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,11 +13,13 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="play_bl.svg">
+   sodipodi:docname="maya_sd.svg">
   <defs
      id="defs2">
     <style
        id="style1399">.cls-1{fill:#e3e3e3;}</style>
+    <style
+       id="style1399-9">.cls-1{fill:#e3e3e3;}</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -28,18 +28,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="-4.0499852"
-     inkscape:cy="13.451297"
+     inkscape:zoom="11.313708"
+     inkscape:cx="5.157391"
+     inkscape:cy="9.5270909"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
      units="px"
-     inkscape:window-width="1868"
-     inkscape:window-height="1016"
-     inkscape:window-x="52"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-width="785"
+     inkscape:window-height="424"
+     inkscape:window-x="818"
+     inkscape:window-y="148"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0"
+     inkscape:object-paths="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true">
     <sodipodi:guide
        position="8.4666666,0"
        orientation="-32,0"
@@ -69,8 +77,15 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path868"
-     d="M 4.2454786,0 C 1.9161999,0 0.02897408,1.8872259 0.02897408,4.2165045 c 0,2.3292786 1.88722582,4.2165045 4.21650452,4.2165045 2.3292788,0 4.2165046,-1.8872259 4.2165046,-4.2165045 C 8.4619832,1.8872259 6.5747574,0 4.2454786,0 Z M 6.2126142,4.6245535 3.220256,6.3417589 C 2.9516239,6.4913767 2.6132831,6.2992529 2.6132831,5.9847161 V 2.4482929 c 0,-0.3128377 0.3366407,-0.5066606 0.6069729,-0.3570428 l 2.9923582,1.8192178 c 0.2788333,0.1564188 0.2788333,0.5593669 0,0.7140856 z"
+     style="fill:#00a2a3;fill-opacity:1;stroke:#710132;stroke-width:0.47186473;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="M 2.5290576,0.56400406 0.23593236,0.78709242 V 8.1133729 L 2.1733099,7.7576202 V 4.354993 l 1.291088,2.3776174 H 5.0015312 L 6.2926193,4.3557319 V 7.7576202 L 8.2307344,8.1133729 V 0.78709242 L 5.9368717,0.56400406 4.2329725,4.8152466 Z"
+     id="path1035"
      inkscape:connector-curvature="0"
-     style="stroke-width:0.01700203;fill:#e3e3e3;fill-opacity:1" />
+     inkscape:label="maya"
+     inkscape:export-xdpi="173.32509"
+     inkscape:export-ydpi="173.32509" />
+  <g
+     transform="translate(-145.15612,-226.52414)"
+     id="layer1"
+     inkscape:label="Calque 1" />
 </svg>
