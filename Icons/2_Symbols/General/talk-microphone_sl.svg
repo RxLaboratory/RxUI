@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="talk-microphone_sl.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="23.763303"
+     inkscape:cy="14.178418"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1868"
+     inkscape:window-height="1016"
+     inkscape:window-x="52"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666666,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <path
+       id="path867"
+       d="m 6.8455448,291.71009 h -0.264729 c -0.1462629,0 -0.2647292,0.11846 -0.2647292,0.26473 v 0.79419 c 0,1.2376 -1.0670235,2.23067 -2.3294501,2.10757 -1.1002801,-0.10738 -1.9062147,-1.09647 -1.9062147,-2.20189 v -0.69987 c 0,-0.14627 -0.1184663,-0.26473 -0.2647291,-0.26473 h -0.264729 c -0.1462628,0 -0.264729,0.11846 -0.264729,0.26473 v 0.66447 c 0,1.48314 1.0584199,2.8053 2.514926,3.00616 v 0.56504 H 2.874609 c -0.1462628,0 -0.264729,0.11846 -0.264729,0.26472 v 0.26473 c 0,0.14626 0.1184662,0.26473 0.264729,0.26473 h 2.6472905 c 0.1462628,0 0.2647291,-0.11847 0.2647291,-0.26473 v -0.26473 c 0,-0.14626 -0.1184663,-0.26472 -0.2647291,-0.26472 H 4.5953478 v -0.55875 c 1.4181205,-0.19458 2.514926,-1.41183 2.514926,-2.88273 v -0.79419 c 0,-0.14627 -0.1184662,-0.26473 -0.264729,-0.26473 z m -2.6472905,2.64729 c 0.8772458,0 1.5883743,-0.71113 1.5883743,-1.58837 H 4.3747955 c -0.097454,0 -0.1765412,-0.0592 -0.1765412,-0.13237 v -0.26473 c 0,-0.0731 0.079088,-0.13236 0.1765412,-0.13236 h 1.4118331 v -0.52946 H 4.3747955 c -0.097454,0 -0.1765412,-0.0592 -0.1765412,-0.13236 V 291.313 c 0,-0.0731 0.079088,-0.13237 0.1765412,-0.13237 h 1.4118331 v -0.52946 H 4.3747955 c -0.097454,0 -0.1765412,-0.0592 -0.1765412,-0.13236 v -0.26473 c 0,-0.0731 0.079088,-0.13237 0.1765412,-0.13237 h 1.4118331 c 0,-0.87724 -0.7111285,-1.58837 -1.5883743,-1.58837 -0.877246,0 -1.5883743,0.71113 -1.5883743,1.58837 v 2.6473 c 0,0.87724 0.7111283,1.58837 1.5883743,1.58837 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.01654557;fill:#e3e3e3;fill-opacity:1" />
+  </g>
+</svg>
