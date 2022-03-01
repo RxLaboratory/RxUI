@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="school-teach-graduation-training_sd.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="21.57644"
+     inkscape:cy="23.255538"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1868"
+     inkscape:window-height="1016"
+     inkscape:window-x="52"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666666,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <path
+       id="path916"
+       d="m 8.2330059,291.37383 -3.6901584,-1.13374 c -0.2010842,-0.0618 -0.4180434,-0.0618 -0.6189952,0 l -3.69029051,1.13374 c -0.31141572,0.0957 -0.31141572,0.50747 0,0.60312 l 0.64333701,0.19764 c -0.14115601,0.1745 -0.2279394,0.38736 -0.23653843,0.62045 -0.1273975,0.073 -0.21709133,0.20479 -0.21709133,0.36209 0,0.14261 0.0751418,0.2626 0.1833567,0.33933 l -0.33774181,1.51977 c -0.0293691,0.13216 0.0711733,0.25757 0.20650781,0.25757 H 1.2176831 c 0.1354676,0 0.2360095,-0.12541 0.2066404,-0.25757 l -0.3377418,-1.51977 c 0.1082154,-0.0767 0.1833571,-0.19672 0.1833571,-0.33933 0,-0.15306 -0.085593,-0.28112 -0.2071698,-0.35547 0.010055,-0.1987 0.111655,-0.37439 0.2737126,-0.48578 l 2.5872384,0.79495 c 0.1198567,0.0368 0.3497806,0.0827 0.6189952,0 l 3.6902907,-1.13375 c 0.3115477,-0.0958 0.3115477,-0.50747 0,-0.60325 z m -3.5659361,2.14168 c -0.3774296,0.11589 -0.6990319,0.0519 -0.8677045,0 l -1.9185011,-0.58936 -0.1875907,1.50098 c 0,0.46766 1.137184,0.84667 2.5400102,0.84667 1.4028265,0 2.5400104,-0.37901 2.5400104,-0.84667 l -0.1875907,-1.50112 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.01322922;fill:#232323;fill-opacity:1" />
+  </g>
+</svg>
