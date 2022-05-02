@@ -39,7 +39,7 @@
        id="linearGradient1363"
        osb:paint="solid">
       <stop
-         style="stop-color:#84b330;stop-opacity:1;"
+         style="stop-color:#232323;stop-opacity:1;"
          offset="0"
          id="stop1361" />
     </linearGradient>
@@ -1911,5 +1911,5 @@
      id="path3581"
      d="M 4.0594316,8.2958428 C 1.6567177,4.8126207 1.2107296,4.4551358 1.2107296,3.1749991 1.2107296,1.4214902 2.6322197,0 4.3857288,0 c 1.7535091,0 3.1749993,1.4214902 3.1749993,3.1749991 0,1.2801367 -0.4459883,1.6376216 -2.848702,5.1208437 -0.1576751,0.2277733 -0.4949361,0.227757 -0.6525945,0 z"
      inkscape:connector-curvature="0"
-     style="stroke-width:0.01653645;fill:#83d3f6" />
+     style="stroke-width:0.01653645;fill:#e3e3e3" />
 </svg>
