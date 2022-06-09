@@ -99,7 +99,7 @@
 	.st1{fill:#9999FF;}
 </style>
   <path
-     style="opacity:1;fill:#83d3f6;fill-opacity:1;stroke:none;stroke-width:1.46499979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.3937006;stroke-opacity:1"
+     style="opacity:1;fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:1.46499979;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.3937006;stroke-opacity:1"
      d="M 8.4666666,4.2333333 A 4.233333,4.233333 0 0 0 4.2333333,0 4.233333,4.233333 0 0 0 0,4.2333333 4.233333,4.233333 0 0 0 4.2333333,8.4666666 4.233333,4.233333 0 0 0 8.4666666,4.2333333 Z M 6.8636636,4.828129 c -0.0196,0.1666148 -0.1552941,0.3157429 -0.35295,0.3157429 h -4.567163 c -0.3162493,0 -0.4747655,-0.3825467 -0.2511476,-0.6061643 L 3.9759847,2.2541259 c 0.1386187,-0.1386183 0.3636764,-0.1386183 0.5022948,0 l 2.2835816,2.2835817 c 0.083863,0.083856 0.1135628,0.1904526 0.1018025,0.2904214 z"
      id="path2563"
      inkscape:connector-curvature="0" />

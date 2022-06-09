@@ -99,7 +99,7 @@
 	.st1{fill:#9999FF;}
 </style>
   <path
-     style="opacity:1;fill:#10688e;fill-opacity:1;stroke:none;stroke-width:5.53700733;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.3937006;stroke-opacity:1"
+     style="opacity:1;fill:#232323;fill-opacity:1;stroke:none;stroke-width:5.53700733;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.3937006;stroke-opacity:1"
      d="M 16 0 A 15.999999 15.999999 0 0 0 0 16 A 15.999999 15.999999 0 0 0 16 32 A 15.999999 15.999999 0 0 0 32 16 A 15.999999 15.999999 0 0 0 16 0 z M 18.248047 6.0585938 C 18.877772 6.1326739 19.441406 6.6455321 19.441406 7.3925781 L 19.441406 24.654297 C 19.441406 25.84957 17.99556 26.448686 17.150391 25.603516 L 8.5195312 16.972656 C 7.9956192 16.448743 7.9956192 15.598131 8.5195312 15.074219 L 17.150391 6.4433594 C 17.467329 6.126396 17.870212 6.0141457 18.248047 6.0585938 z "
      transform="scale(0.26458333)"
      id="path2563" />

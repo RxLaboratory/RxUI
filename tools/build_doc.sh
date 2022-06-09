@@ -1,4 +1,4 @@
 #!/bin/bash
 cd ../src-docs/
 mkdocs build
-echo "rxui-docs.rainboxlab.org" > ../docs/CNAME
+echo "rxui.rxlab.io" > ../docs/CNAME

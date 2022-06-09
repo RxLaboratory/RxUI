@@ -71,7 +71,7 @@
      id="layer1"
      transform="translate(0,-288.53334)">
     <path
-       style="fill:#10688e;fill-opacity:1;stroke:none;stroke-width:5.91496086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#232323;fill-opacity:1;stroke:none;stroke-width:5.91496086;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 16,0 A 15.999999,15.999999 0 0 0 0,16 15.999999,15.999999 0 0 0 16,32 15.999999,15.999999 0 0 0 32,16 15.999999,15.999999 0 0 0 16,0 Z m 6.351562,8.1835938 c 0.56997,-0.038065 1.082142,0.57608 0.84375,1.1484374 L 16.955078,24.730469 c -0.797248,1.70846 -3.302734,1.138403 -3.302734,-0.683594 V 17.783203 H 7.3886719 c -1.822026,0 -2.3897237,-2.505481 -0.6816407,-3.302734 L 22.105469,8.2421875 c 0.08174,-0.034072 0.164669,-0.053156 0.246093,-0.058594 z"
        transform="matrix(0.26458333,0,0,0.26458333,0,288.53334)"
        id="path1269"
