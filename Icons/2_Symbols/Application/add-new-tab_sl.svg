@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="add_tab.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1310"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,3.3333333e-06,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0583333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="4"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="7"
+     inkscape:cy="12.78125"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="8.4666666,0"
+       orientation="-32,0"
+       id="guide854"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.4666666,8.4666666"
+       orientation="0,-32"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,8.4666814"
+       orientation="32,0"
+       id="guide858"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53334)">
+    <path
+       id="path1377"
+       style="fill:#e3e3e3;stroke-width:0.706001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.706001, 0.706001"
+       d="M 2.1151164 289.59839 A 1.0583333 1.0583333 0 0 0 1.056783 290.65672 L 1.056783 294.90194 A 1.0575585 1.0575585 0 0 0 0 295.96028 L 0 297.00001 L 8.4666667 297.00001 L 8.4666667 295.96028 A 1.0460045 1.0460045 0 0 0 7.433138 294.90194 L 7.433138 290.65672 A 1.0583333 1.0583333 0 0 0 6.3748047 289.59839 L 2.1151164 289.59839 z M 4.0808879 290.27277 L 4.3857788 290.27277 C 4.5542047 290.27277 4.6906698 290.40924 4.6906698 290.57766 L 4.6906698 291.9507 L 6.0631958 291.9507 C 6.2316217 291.9507 6.3686035 292.08716 6.3686035 292.25559 L 6.3686035 292.56048 C 6.3686035 292.7289 6.2316217 292.86538 6.0631958 292.86538 L 4.6906698 292.86538 L 4.6906698 294.2379 C 4.6906698 294.40634 4.5542047 294.54331 4.3857788 294.54331 L 4.0808879 294.54331 C 3.9124618 294.54331 3.7759969 294.40634 3.7759969 294.2379 L 3.7759969 292.86538 L 2.4034709 292.86538 C 2.2350445 292.86538 2.0980632 292.7289 2.0980632 292.56048 L 2.0980632 292.25559 C 2.0980632 292.08716 2.2350445 291.9507 2.4034709 291.9507 L 3.7759969 291.9507 L 3.7759969 290.57766 C 3.7759969 290.40924 3.9124618 290.27277 4.0808879 290.27277 z " />
+  </g>
+</svg>
